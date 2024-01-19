@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-19T18:43:30+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">My Awesome Site</title><subtitle>It really is the best.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Hidden Post</title><link href="http://localhost:4000/example/hidden-post/" rel="alternate" type="text/html" title="Hidden Post" /><published>2018-02-25T00:00:00+09:00</published><updated>2018-02-25T00:00:00+09:00</updated><id>http://localhost:4000/example/hidden-post</id><content type="html" xml:base="http://localhost:4000/example/hidden-post/"><![CDATA[<p>This post has YAML Front Matter of <code class="language-plaintext highlighter-rouge">hidden: true</code> and should not appear in <code class="language-plaintext highlighter-rouge">paginator.posts</code>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><summary type="html"><![CDATA[This post has YAML Front Matter of hidden: true and should not appear in paginator.posts.]]></summary></entry><entry><title type="html">Hidden Post</title><link href="http://localhost:4000/docs/hidden-post/" rel="alternate" type="text/html" title="Hidden Post" /><published>2018-02-25T00:00:00+09:00</published><updated>2018-02-25T00:00:00+09:00</updated><id>http://localhost:4000/docs/hidden-post</id><content type="html" xml:base="http://localhost:4000/docs/hidden-post/"><![CDATA[<p>This post has YAML Front Matter of <code class="language-plaintext highlighter-rouge">hidden: true</code> and should not appear in <code class="language-plaintext highlighter-rouge">paginator.posts</code>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><summary type="html"><![CDATA[This post has YAML Front Matter of hidden: true and should not appear in paginator.posts.]]></summary></entry><entry><title type="html">MathJax Example</title><link href="http://localhost:4000/example/mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T21:08:50+09:00</published><updated>2015-08-10T21:08:50+09:00</updated><id>http://localhost:4000/example/mathjax-example</id><content type="html" xml:base="http://localhost:4000/example/mathjax-example/"><![CDATA[<p><a href="http://www.mathjax.org/">MathJax</a> is a simple, yet powerful, way of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-19T20:04:16+09:00</updated><id>/atom.xml</id><title type="html">My Awesome Site</title><subtitle>It really is the best.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Hidden Post</title><link href="/example/hidden-post/" rel="alternate" type="text/html" title="Hidden Post" /><published>2018-02-25T00:00:00+09:00</published><updated>2018-02-25T00:00:00+09:00</updated><id>/example/hidden-post</id><content type="html" xml:base="/example/hidden-post/"><![CDATA[<p>This post has YAML Front Matter of <code class="language-plaintext highlighter-rouge">hidden: true</code> and should not appear in <code class="language-plaintext highlighter-rouge">paginator.posts</code>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><summary type="html"><![CDATA[This post has YAML Front Matter of hidden: true and should not appear in paginator.posts.]]></summary></entry><entry><title type="html">Hidden Post</title><link href="/docs/hidden-post/" rel="alternate" type="text/html" title="Hidden Post" /><published>2018-02-25T00:00:00+09:00</published><updated>2018-02-25T00:00:00+09:00</updated><id>/docs/hidden-post</id><content type="html" xml:base="/docs/hidden-post/"><![CDATA[<p>This post has YAML Front Matter of <code class="language-plaintext highlighter-rouge">hidden: true</code> and should not appear in <code class="language-plaintext highlighter-rouge">paginator.posts</code>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><summary type="html"><![CDATA[This post has YAML Front Matter of hidden: true and should not appear in paginator.posts.]]></summary></entry><entry><title type="html">MathJax Example</title><link href="/example/mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T21:08:50+09:00</published><updated>2015-08-10T21:08:50+09:00</updated><id>/example/mathjax-example</id><content type="html" xml:base="/example/mathjax-example/"><![CDATA[<p><a href="http://www.mathjax.org/">MathJax</a> is a simple, yet powerful, way of
 including Tex/LaTex/MathML based mathematics in HTML webpages.</p>
 
 <h2 id="usage">Usage</h2>
@@ -44,7 +44,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 \[\begin{align}
 (x + y) (x - y) &amp;= x^2 + xy - xy + y^2   \notag \\
     &amp;= x^2 - y^2
-\end{align}\]]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><summary type="html"><![CDATA[MathJax is a simple, yet powerful, way of including Tex/LaTex/MathML based mathematics in HTML webpages.]]></summary></entry><entry><title type="html">MathJax Example</title><link href="http://localhost:4000/docs/mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T21:08:50+09:00</published><updated>2015-08-10T21:08:50+09:00</updated><id>http://localhost:4000/docs/mathjax-example</id><content type="html" xml:base="http://localhost:4000/docs/mathjax-example/"><![CDATA[<p><a href="http://www.mathjax.org/">MathJax</a> is a simple, yet powerful, way of
+\end{align}\]]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><summary type="html"><![CDATA[MathJax is a simple, yet powerful, way of including Tex/LaTex/MathML based mathematics in HTML webpages.]]></summary></entry><entry><title type="html">MathJax Example</title><link href="/docs/mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T21:08:50+09:00</published><updated>2015-08-10T21:08:50+09:00</updated><id>/docs/mathjax-example</id><content type="html" xml:base="/docs/mathjax-example/"><![CDATA[<p><a href="http://www.mathjax.org/">MathJax</a> is a simple, yet powerful, way of
 including Tex/LaTex/MathML based mathematics in HTML webpages.</p>
 
 <h2 id="usage">Usage</h2>
@@ -90,7 +90,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 \[\begin{align}
 (x + y) (x - y) &amp;= x^2 + xy - xy + y^2   \notag \\
     &amp;= x^2 - y^2
-\end{align}\]]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><summary type="html"><![CDATA[MathJax is a simple, yet powerful, way of including Tex/LaTex/MathML based mathematics in HTML webpages.]]></summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="http://localhost:4000/example/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00+09:00</published><updated>2017-03-10T00:27:01+09:00</updated><id>http://localhost:4000/example/markup-syntax-highlighting</id><content type="html" xml:base="http://localhost:4000/example/markup-syntax-highlighting/"><![CDATA[<p>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+\end{align}\]]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><summary type="html"><![CDATA[MathJax is a simple, yet powerful, way of including Tex/LaTex/MathML based mathematics in HTML webpages.]]></summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="/example/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00+09:00</published><updated>2017-03-10T00:27:01+09:00</updated><id>/example/markup-syntax-highlighting</id><content type="html" xml:base="/example/markup-syntax-highlighting/"><![CDATA[<p>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <h2 id="gfm-code-blocks">GFM Code Blocks</h2>
 
@@ -211,7 +211,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
       <p><a href="http://en.wikipedia.org/wiki/Syntax_highlighting">http://en.wikipedia.org/wiki/Syntax_highlighting</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="code" /><category term="syntax highlighting" /><summary type="html"><![CDATA[Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag.]]></summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="http://localhost:4000/docs/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00+09:00</published><updated>2017-03-10T00:27:01+09:00</updated><id>http://localhost:4000/docs/markup-syntax-highlighting</id><content type="html" xml:base="http://localhost:4000/docs/markup-syntax-highlighting/"><![CDATA[<p>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+</div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="code" /><category term="syntax highlighting" /><summary type="html"><![CDATA[Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag.]]></summary></entry><entry><title type="html">Markup: Syntax Highlighting</title><link href="/docs/markup-syntax-highlighting/" rel="alternate" type="text/html" title="Markup: Syntax Highlighting" /><published>2013-08-16T00:00:00+09:00</published><updated>2017-03-10T00:27:01+09:00</updated><id>/docs/markup-syntax-highlighting</id><content type="html" xml:base="/docs/markup-syntax-highlighting/"><![CDATA[<p>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <h2 id="gfm-code-blocks">GFM Code Blocks</h2>
 
@@ -332,7 +332,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
       <p><a href="http://en.wikipedia.org/wiki/Syntax_highlighting">http://en.wikipedia.org/wiki/Syntax_highlighting</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="code" /><category term="syntax highlighting" /><summary type="html"><![CDATA[Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag.]]></summary></entry><entry><title type="html">Markup: HTML Elements and Formatting</title><link href="http://localhost:4000/example/markup/markup-html-elements-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Elements and Formatting" /><published>2013-01-11T00:00:00+09:00</published><updated>2018-02-02T00:16:49+09:00</updated><id>http://localhost:4000/example/markup/markup-html-elements-and-formatting</id><content type="html" xml:base="http://localhost:4000/example/markup/markup-html-elements-and-formatting/"><![CDATA[<p>A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.</p>
+</div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="code" /><category term="syntax highlighting" /><summary type="html"><![CDATA[Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag.]]></summary></entry><entry><title type="html">Markup: HTML Elements and Formatting</title><link href="/example/markup/markup-html-elements-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Elements and Formatting" /><published>2013-01-11T00:00:00+09:00</published><updated>2018-02-02T00:16:49+09:00</updated><id>/example/markup/markup-html-elements-and-formatting</id><content type="html" xml:base="/example/markup/markup-html-elements-and-formatting/"><![CDATA[<p>A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.</p>
 
 <h1 id="header-one">Header one</h1>
 
@@ -625,7 +625,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 
 <h2 id="variable-element">Variable element</h2>
 
-<p>This allows you to denote <var>variables</var>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="Markup" /><summary type="html"><![CDATA[A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.]]></summary></entry><entry><title type="html">Markup: HTML Elements and Formatting</title><link href="http://localhost:4000/docs/markup/markup-html-elements-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Elements and Formatting" /><published>2013-01-11T00:00:00+09:00</published><updated>2018-02-02T00:16:49+09:00</updated><id>http://localhost:4000/docs/markup/markup-html-elements-and-formatting</id><content type="html" xml:base="http://localhost:4000/docs/markup/markup-html-elements-and-formatting/"><![CDATA[<p>A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.</p>
+<p>This allows you to denote <var>variables</var>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="Markup" /><summary type="html"><![CDATA[A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.]]></summary></entry><entry><title type="html">Markup: HTML Elements and Formatting</title><link href="/docs/markup/markup-html-elements-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Elements and Formatting" /><published>2013-01-11T00:00:00+09:00</published><updated>2018-02-02T00:16:49+09:00</updated><id>/docs/markup/markup-html-elements-and-formatting</id><content type="html" xml:base="/docs/markup/markup-html-elements-and-formatting/"><![CDATA[<p>A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.</p>
 
 <h1 id="header-one">Header one</h1>
 
@@ -918,7 +918,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 
 <h2 id="variable-element">Variable element</h2>
 
-<p>This allows you to denote <var>variables</var>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="Markup" /><summary type="html"><![CDATA[A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.]]></summary></entry><entry><title type="html">Markup: Image Alignment</title><link href="http://localhost:4000/example/markup/markup-image-alignment/" rel="alternate" type="text/html" title="Markup: Image Alignment" /><published>2013-01-10T00:00:00+09:00</published><updated>2018-02-06T06:19:20+09:00</updated><id>http://localhost:4000/example/markup/markup-image-alignment</id><content type="html" xml:base="http://localhost:4000/example/markup/markup-image-alignment/"><![CDATA[<p>The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.</p>
+<p>This allows you to denote <var>variables</var>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="Markup" /><summary type="html"><![CDATA[A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.]]></summary></entry><entry><title type="html">Markup: Image Alignment</title><link href="/example/markup/markup-image-alignment/" rel="alternate" type="text/html" title="Markup: Image Alignment" /><published>2013-01-10T00:00:00+09:00</published><updated>2018-02-06T06:19:20+09:00</updated><id>/example/markup/markup-image-alignment</id><content type="html" xml:base="/example/markup/markup-image-alignment/"><![CDATA[<p>The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.</p>
 
 <p>Assign classes with HTML:</p>
 
@@ -934,21 +934,21 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <span class="p">![</span><span class="nv">right-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-right}
 </code></pre></div></div>
 
-<p><img src="http://localhost:4000/images/image-alignment-580x300.jpg" alt="image-center" class="align-center" /></p>
+<p><img src="/images/image-alignment-580x300.jpg" alt="image-center" class="align-center" /></p>
 
 <p>The image should be <strong>centered</strong> with the <code class="language-plaintext highlighter-rouge">.align-center</code> class.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="language-plaintext highlighter-rouge">.align-left</code> class.</p>
+<p><img src="/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="language-plaintext highlighter-rouge">.align-left</code> class.</p>
 
 <p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thing. Mission accomplished!</p>
 
 <p>And now for a <strong>massively large image</strong> — it has <strong>no alignment</strong>.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-1200x4002.jpg" alt="no-alignment" /></p>
+<p><img src="/images/image-alignment-1200x4002.jpg" alt="no-alignment" /></p>
 
 <p>The image above, though <code class="language-plaintext highlighter-rouge">1200px</code> wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-300x200.jpg" alt="image-right" class="align-right" /></p>
+<p><img src="/images/image-alignment-300x200.jpg" alt="image-right" class="align-right" /></p>
 
 <p>And now we’re going to shift things to the <strong>right</strong> with the <code class="language-plaintext highlighter-rouge">.align-right</code> class. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there — Hey guy! Way to rock that right side. I don’t care what the left aligned image says, you look great. Don’t let anyone else tell you differently.</p>
 
@@ -957,14 +957,14 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <p>And just when you thought we were done, we’re going to do them all over again with captions!</p>
 
 <figure class="align-center">
-  <a href="#"><img src="http://localhost:4000/images/image-alignment-580x300.jpg" alt="" /></a>
+  <a href="#"><img src="/images/image-alignment-580x300.jpg" alt="" /></a>
   <figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
 </figure>
 
 <p>The figure above happens to be <strong>centered</strong>. The caption also has a link in it, just to see if it does anything funky.</p>
 
 <figure style="width: 150px" class="align-left">
-  <img src="http://localhost:4000/images/image-alignment-150x150.jpg" alt="" />
+  <img src="/images/image-alignment-150x150.jpg" alt="" />
   <figcaption>Itty-bitty caption.</figcaption>
 </figure>
 
@@ -975,14 +975,14 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <p>And now for a massively large image with <strong>no alignment</strong>.</p>
 
 <figure style="width: 1200px">
-  <img src="http://localhost:4000/images/image-alignment-1200x4002.jpg" alt="" />
+  <img src="/images/image-alignment-1200x4002.jpg" alt="" />
   <figcaption>Massive image comment for your eyeballs.</figcaption>
 </figure>
 
 <p>The figure element above has an inline style of <code class="language-plaintext highlighter-rouge">width: 1200px</code> set which should cause it to break outside of the normal content flow.</p>
 
 <figure style="width: 300px" class="align-right">
-  <img src="http://localhost:4000/images/image-alignment-300x200.jpg" alt="" />
+  <img src="/images/image-alignment-300x200.jpg" alt="" />
   <figcaption>Feels good to be on the right.</figcaption>
 </figure>
 
@@ -990,7 +990,7 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 
 <p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah — Just like that. It never felt so good to be right.</p>
 
-<p>And that’s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="Markup" /><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="markup" /><summary type="html"><![CDATA[The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/so-simple-sample-image-5.jpg" /><media:content medium="image" url="http://localhost:4000/images/so-simple-sample-image-5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markup: Image Alignment</title><link href="http://localhost:4000/docs/markup/markup-image-alignment/" rel="alternate" type="text/html" title="Markup: Image Alignment" /><published>2013-01-10T00:00:00+09:00</published><updated>2018-02-06T06:19:55+09:00</updated><id>http://localhost:4000/docs/markup/markup-image-alignment</id><content type="html" xml:base="http://localhost:4000/docs/markup/markup-image-alignment/"><![CDATA[<p>The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.</p>
+<p>And that’s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="example" /><category term="Markup" /><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="markup" /><summary type="html"><![CDATA[The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/so-simple-sample-image-5.jpg" /><media:content medium="image" url="/images/so-simple-sample-image-5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markup: Image Alignment</title><link href="/docs/markup/markup-image-alignment/" rel="alternate" type="text/html" title="Markup: Image Alignment" /><published>2013-01-10T00:00:00+09:00</published><updated>2018-02-06T06:19:55+09:00</updated><id>/docs/markup/markup-image-alignment</id><content type="html" xml:base="/docs/markup/markup-image-alignment/"><![CDATA[<p>The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.</p>
 
 <p>Assign classes with HTML:</p>
 
@@ -1006,21 +1006,21 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <span class="p">![</span><span class="nv">right-aligned-image</span><span class="p">](</span><span class="sx">image.jpg</span><span class="p">)</span>{: .align-right}
 </code></pre></div></div>
 
-<p><img src="http://localhost:4000/images/image-alignment-580x300.jpg" alt="image-center" class="align-center" /></p>
+<p><img src="/images/image-alignment-580x300.jpg" alt="image-center" class="align-center" /></p>
 
 <p>The image should be <strong>centered</strong> with the <code class="language-plaintext highlighter-rouge">.align-center</code> class.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="language-plaintext highlighter-rouge">.align-left</code> class.</p>
+<p><img src="/images/image-alignment-150x150.jpg" alt="image-left" class="align-left" /> The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is <strong>left aligned</strong> with the <code class="language-plaintext highlighter-rouge">.align-left</code> class.</p>
 
 <p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we’ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it’s thing. Mission accomplished!</p>
 
 <p>And now for a <strong>massively large image</strong> — it has <strong>no alignment</strong>.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-1200x4002.jpg" alt="no-alignment" /></p>
+<p><img src="/images/image-alignment-1200x4002.jpg" alt="no-alignment" /></p>
 
 <p>The image above, though <code class="language-plaintext highlighter-rouge">1200px</code> wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
 
-<p><img src="http://localhost:4000/images/image-alignment-300x200.jpg" alt="image-right" class="align-right" /></p>
+<p><img src="/images/image-alignment-300x200.jpg" alt="image-right" class="align-right" /></p>
 
 <p>And now we’re going to shift things to the <strong>right</strong> with the <code class="language-plaintext highlighter-rouge">.align-right</code> class. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there — Hey guy! Way to rock that right side. I don’t care what the left aligned image says, you look great. Don’t let anyone else tell you differently.</p>
 
@@ -1029,14 +1029,14 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <p>And just when you thought we were done, we’re going to do them all over again with captions!</p>
 
 <figure class="align-center">
-  <a href="#"><img src="http://localhost:4000/images/image-alignment-580x300.jpg" alt="" /></a>
+  <a href="#"><img src="/images/image-alignment-580x300.jpg" alt="" /></a>
   <figcaption>Look at 580 x 300 <a href="#">getting some</a> love.</figcaption>
 </figure>
 
 <p>The figure above happens to be <strong>centered</strong>. The caption also has a link in it, just to see if it does anything funky.</p>
 
 <figure style="width: 150px" class="align-left">
-  <img src="http://localhost:4000/images/image-alignment-150x150.jpg" alt="" />
+  <img src="/images/image-alignment-150x150.jpg" alt="" />
   <figcaption>Itty-bitty caption.</figcaption>
 </figure>
 
@@ -1047,14 +1047,14 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 <p>And now for a massively large image with <strong>no alignment</strong>.</p>
 
 <figure style="width: 1200px">
-  <img src="http://localhost:4000/images/image-alignment-1200x4002.jpg" alt="" />
+  <img src="/images/image-alignment-1200x4002.jpg" alt="" />
   <figcaption>Massive image comment for your eyeballs.</figcaption>
 </figure>
 
 <p>The figure element above has an inline style of <code class="language-plaintext highlighter-rouge">width: 1200px</code> set which should cause it to break outside of the normal content flow.</p>
 
 <figure style="width: 300px" class="align-right">
-  <img src="http://localhost:4000/images/image-alignment-300x200.jpg" alt="" />
+  <img src="/images/image-alignment-300x200.jpg" alt="" />
   <figcaption>Feels good to be on the right.</figcaption>
 </figure>
 
@@ -1062,4 +1062,4 @@ the <code class="language-plaintext highlighter-rouge">ams</code> and <code clas
 
 <p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah — Just like that. It never felt so good to be right.</p>
 
-<p>And that’s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="Markup" /><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="markup" /><summary type="html"><![CDATA[The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/so-simple-sample-image-5.jpg" /><media:content medium="image" url="http://localhost:4000/images/so-simple-sample-image-5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>And that’s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="docs" /><category term="Markup" /><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="markup" /><summary type="html"><![CDATA[The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/so-simple-sample-image-5.jpg" /><media:content medium="image" url="/images/so-simple-sample-image-5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
