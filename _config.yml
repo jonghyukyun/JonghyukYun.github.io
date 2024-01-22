@@ -25,9 +25,9 @@ plugins:
 header_pages:
   - headers/home.md
   - headers/publications.md
-  
+
 redirect_from:
-  - /jonghyuk-yun/
+  - headers/home.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
