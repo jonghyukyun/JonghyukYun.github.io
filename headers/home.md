@@ -30,7 +30,7 @@ permalink: /home/
 <ul style="font-size: 1.2rem;">
   <li>2023.12
     <ul>
-      <li>I won an excellence award in the project-based learning class held by the Automotive System IC Fusion Human Resource Research Center (ASRC) at Yonsei University.
+      <li>I won an excellence award in the project-based learning class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
       </li>
     </ul>
   </li>
