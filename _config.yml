@@ -27,7 +27,8 @@ plugins:
 header_pages:
   - headers/about.md
   - headers/research.md
-
+  - headers/cv.md
+  
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
