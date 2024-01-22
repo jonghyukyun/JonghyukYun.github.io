@@ -25,9 +25,7 @@ plugins:
 header_pages:
   - headers/home.md
   - headers/publications.md
-  
-redirects:
-  - /: /home
+
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
