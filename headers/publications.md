@@ -7,6 +7,7 @@ permalink: /publications/
 
 <!-- Add Line -->
 <hr> 
+## 2023
 <!-- ..................................................................................................................................... -->
 ### **[[HotMobile'23](https://hotmobile.org/2023/)]** **RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps**  
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han  
