@@ -3,9 +3,8 @@ layout: base
 title: Home
 permalink: /home/
 ---
-
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 100%; height: auto; margin-right: 10px; margin-bottom: 10px;">
+  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 50%; height: auto; margin-right: 10px; margin-bottom: 10px;">
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <p style="font-size: 1.5rem;">MS/Ph.D. Student</p>
@@ -33,7 +32,7 @@ permalink: /home/
 <style>
 @media (max-width: 768px) {
   img {
-    max-width: 100%; /* 이미지는 모바일 환경에서 가득 채우도록 설정 */
+    max-width: 30%; /* 모바일 환경에서 이미지 크기를 작게 설정 */
     margin-right: 0; /* 이미지의 오른쪽 마진 없음 */
     margin-bottom: 0; /* 이미지의 하단 마진 없음 */
   }
