@@ -41,7 +41,7 @@ permalink: /home/
   img {
     max-width: 100%; /* Adjust the maximum width of the image */
     margin: 0 auto; /* Center align the image horizontally */
-    display: block; /* Ensure the image is treated as a block-level element */
+    /* display: block; Ensure the image is treated as a block-level element */
   }
   p {
     font-size: 1rem; /* Adjust the font size for paragraphs */
