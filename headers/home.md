@@ -37,22 +37,18 @@ permalink: /home/
 
 <style>
 @media (max-width: 768px) {
-  img {
-    max-width: 100%; /* Allows the image to scale up to 100% of the container's width */
-    margin: 0 auto; /* Centers the image horizontally */
-    display: block; /* Ensures the image is treated as a block-level element for centering to work */
+  .image-container img {
+    display: block;      /* 이미지를 블록 요소로 만듦 */
+    margin: 0;           /* 이미지의 상단과 하단 마진을 0으로 설정 */
+    max-width: 50%;     /* 컨테이너의 최대 너비를 100%로 설정하여 전체 너비를 사용 */
+    height: auto;        /* 이미지의 종횡비를 유지 */
   }
-  div, h2, p {
-    margin-left: 10px; /* Adds a small margin to the left for text elements */
-    margin-right: 10px; /* Adds a small margin to the right for text elements */
-  }
-  h2 {
-    font-size: 1.5rem; /* Adjusts the heading size for mobile */
-  }
-  p {
-    font-size: 1rem; /* Adjusts the paragraph font size for mobile */
+
+  .text-container h2,
+  .text-container p {
+    text-align: left;  /* 텍스트를 왼쪽으로 정렬 */
+    font-size: 1.2rem; /* 모바일에서의 텍스트 크기를 조정 */
   }
 }
 </style>
-
 
