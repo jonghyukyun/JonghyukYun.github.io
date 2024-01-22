@@ -4,4 +4,4 @@ title: Home
 permalink: /home/
 ---
 
-![Jonghyuk Yun](_data/child.png)
+![Jonghyuk Yun](/assets/child.png)
