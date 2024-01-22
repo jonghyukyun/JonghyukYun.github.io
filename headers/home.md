@@ -40,7 +40,7 @@ permalink: /home/
   .image-container img {
     display: block;      /* 이미지를 블록 요소로 만듦 */
     margin: 0;           /* 이미지의 상단과 하단 마진을 0으로 설정 */
-    max-width: 50%;     /* 컨테이너의 최대 너비를 100%로 설정하여 전체 너비를 사용 */
+    max-width: 70%;     /* 컨테이너의 최대 너비를 100%로 설정하여 전체 너비를 사용 */
     height: auto;        /* 이미지의 종횡비를 유지 */
   }
 
