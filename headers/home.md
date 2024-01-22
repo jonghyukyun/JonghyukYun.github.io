@@ -43,12 +43,6 @@ permalink: /home/
     max-width: 70%;     /* 컨테이너의 최대 너비를 100%로 설정하여 전체 너비를 사용 */
     height: auto;        /* 이미지의 종횡비를 유지 */
   }
-
-  .text-container h2,
-  .text-container p {
-    text-align: left;  /* 텍스트를 왼쪽으로 정렬 */
-    font-size: 1.2rem; /* 모바일에서의 텍스트 크기를 조정 */
-  }
 }
 </style>
 
