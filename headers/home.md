@@ -14,3 +14,8 @@ permalink: /home/
     <p style="font-size: 20px;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
   </div>
 </div>
+
+<hr> <!-- 줄 추가 -->
+
+<!-- 아래에 내용 추가 -->
+<p style="font-size: 25px;">About me</p>
