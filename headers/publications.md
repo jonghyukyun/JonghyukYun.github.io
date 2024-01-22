@@ -12,6 +12,4 @@ ACM International Workshop on Mobile Computing Systems and Applications
 
 BEST POSTER AWARD (*Poster accompanied full paper)
 
-## Resources
-- [paper](URL_to_paper)
-- [slides](URL_to_slides)
+[[paper](URL_to_paper) | [slides](URL_to_slides)]
