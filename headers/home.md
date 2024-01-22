@@ -18,10 +18,14 @@ permalink: /home/
 <!-- Add Line -->
 <hr> 
 
-<!-- 아래에 내용 추가 -->
+<!-- 새로운 내용 추가-->
 <p style="font-size: 25px;">About me</p>
 
+<p style="font-size: 20px;">I am an integrated MS/Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a> under the supervision of <a href="https://www.junhan.org">Prof. Jun Han</a>. My research interests include novel applications of sensors in mobile environments, with a particular focus on exploring innovative solutions for security and safety issues through the augmentation of physics models and sensing modalities. </p>
 
-<p style="font-size: 20px;">I am an integrated MS/Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a> under the supervision of <a href="https://www.junhan.org">Prof. Jun Han</a>. My research interests are novel applications of sensors in mobile environments. Specifically, I am particularly interested in exploring novel solutions for security and safety issues through the augmentations of physics models and sensing modalities. </p>
+<!-- Add Line -->
+<hr> 
 
-
+<!-- 새로운 내용 추가-->
+<p style="font-size: 25px;">News</p>
+<p style="font-size: 20px;"> </p>
