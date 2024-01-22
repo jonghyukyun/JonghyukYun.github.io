@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 10px; margin-bottom: 10px;">
+  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <p style="font-size: 1.5rem;">MS/Ph.D. Student</p>
