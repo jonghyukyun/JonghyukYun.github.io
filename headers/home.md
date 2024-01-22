@@ -29,19 +29,24 @@ permalink: /home/
 <p style="font-size: 1.5rem;">News</p>
 <p style="font-size: 1.2rem;"> </p>
 
+
+
+
+
+
+
+<!-- Mobile Site Marging Def -->
 <style>
 @media (max-width: 768px) {
   img {
-    max-width: 30%; /* 모바일 환경에서 이미지 크기를 작게 설정 */
-    margin: 0 auto; /* 이미지를 수평 가운데 정렬 */
-    display: block; /* 이미지를 블록 레벨 요소로 표시하여 가운데 정렬을 적용 */
-    margin-right: 0; /* 이미지의 오른쪽 마진 없음 */
+    max-width: 100%; /* Adjust the maximum width of the image */
+    margin: 0 auto; /* Center align the image horizontally */
+    display: block; /* Ensure the image is treated as a block-level element */
   }
   p {
-    font-size: 1rem; /* 모바일 환경에서 문단 폰트 크기 조정 */
+    font-size: 1rem; /* Adjust the font size for paragraphs */
   }
 }
-</style>
 
 
 
