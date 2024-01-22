@@ -28,6 +28,12 @@ permalink: /home/
 <!-- 새로운 내용 추가-->
 <p style="font-size: 1.5rem;">News</p>
 <ul style="font-size: 1.2rem;">
+  <li>2023.12
+    <ul>
+      <li>I won an excellence award in the project-based learning class held by the Automotive System IC Fusion Human Resource Research Center (ASRC) at Yonsei University.
+      </li>
+    </ul>
+  </li>
   <li>2023.5
     <ul>
       <li>Our demo, "Exploiting Indices for Man-in-the-Middle Attacks on
@@ -45,11 +51,6 @@ permalink: /home/
     </ul>
   </li>
 </ul>
-
-
-
-
-
 
 
 <style>
