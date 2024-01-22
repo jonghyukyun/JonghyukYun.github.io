@@ -4,9 +4,9 @@ title: Home
 permalink: /home/
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 40px;">
-  <div>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 100%; height: auto; margin-right: 10px; margin-bottom: 10px;">
+  <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <p style="font-size: 1.5rem;">MS/Ph.D. Student</p>
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
@@ -35,6 +35,7 @@ permalink: /home/
   img {
     max-width: 100%; /* 이미지는 모바일 환경에서 가득 채우도록 설정 */
     margin-right: 0; /* 이미지의 오른쪽 마진 없음 */
+    margin-bottom: 0; /* 이미지의 하단 마진 없음 */
   }
   p {
     font-size: 1rem; /* 모바일 환경에서 문단 폰트 크기 조정 */
