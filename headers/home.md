@@ -22,6 +22,6 @@ permalink: /home/
 <p style="font-size: 25px;">About me</p>
 
 
-<p style="font-size: 20px;">I am an integrated MS/Ph.D. student at Cyber-Physical Systems and Security (CyPhy) Lab under the supervision of Prof. Jun Han. My research interest involves a novel application in the field of mobile computing, particularly focused on sensing systems as well as security.</p>
+<p style="font-size: 20px;">I am an integrated MS/Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a> under the supervision of <a href="https://www.junhan.org">Prof. Jun Han</a>. My research interest involves a novel application in the field of mobile computing, particularly focused on sensing systems as well as security.</p>
 
 
