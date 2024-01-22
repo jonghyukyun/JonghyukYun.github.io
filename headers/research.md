@@ -1,13 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: base
+title: Research
+permalink: /research/
 ---
 
-I am Jonghyuk Yun, currently pursuing an MS/Ph.D. integrated program in [Electrical and Electronic Engineering at Yonsei University](https://ee.yonsei.ac.kr/ee/index.do), working with [Prof. Jun Han](https://www.junhan.org/).
-
-
-My research interest involves a novel application in the field of mobile computing, particularly focused on sensing systems as well as security.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
