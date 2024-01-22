@@ -3,6 +3,12 @@ layout: base
 title: Publications
 permalink: /publications/
 ---
+## Publications 
+
+<!-- Add Line -->
+<hr> 
+
+<!-- 새로운 내용 추가-->
 
 <!-- ..................................................................................................................................... -->
 ### **[DEMO ABSTRACT: [MobiSys'23](https://www.sigmobile.org/mobisys/2023/)]** **Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders**  
