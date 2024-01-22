@@ -1,6 +1,5 @@
 title: Jonghyuk Yun
 author:
-  name: GitHub User
   email: jhyoun96@yonsei.ac.kr
   # email: jonghyuk.yun.0@gmail.com
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -41,7 +40,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
