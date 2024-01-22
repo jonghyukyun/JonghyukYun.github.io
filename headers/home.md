@@ -33,14 +33,14 @@ permalink: /home/
 @media (max-width: 768px) {
   img {
     max-width: 30%; /* 모바일 환경에서 이미지 크기를 작게 설정 */
-    margin: 0 auto; /* 이미지를 수평 가운데 정렬 */
+    margin-left: auto; /* 이미지를 왼쪽으로 가운데 정렬 */
+    margin-right: auto; /* 이미지를 오른쪽으로 가운데 정렬 */
     display: block; /* 이미지를 블록 레벨 요소로 표시하여 가운데 정렬을 적용 */
-    margin-bottom: 0; /* 이미지의 하단 마진 없음 */
-    margin-right: 0; /* 이미지의 오른쪽 마진 없음 */
   }
   p {
     font-size: 1rem; /* 모바일 환경에서 문단 폰트 크기 조정 */
   }
 }
 </style>
+
 
