@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-### [__HotMobile'23__] RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps
-Jonghyuk Yun, Gyuyeon Kim, Soundarya Ramesh, Jun Han
+### [<u>__HotMobile'23__</u>] **RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps**
+<u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, Jun Han
 ACM International Workshop on Mobile Computing Systems and Applications
 
 **BEST POSTER AWARD (*Poster accompanied full paper)*
