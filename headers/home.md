@@ -9,7 +9,7 @@ permalink: /home/
   <div>
     <h2 style="font-size: 40px; font-weight: bold;">Jonghyuk Yun (윤종혁)</h2>
     <p style="font-size: 30px; font-weight: bold;">Ph.D. Student</p>
-    <p style="font-size: 30px;>Cyber-Physical Systems and Security (CyPhy) Lab</p>
+    <p style="font-size: 30px;">Cyber-Physical Systems and Security (CyPhy) Lab</p>
     <p><a href="https://www.cyphy-lab.org/"></a></p>
   </div>
 </div>
