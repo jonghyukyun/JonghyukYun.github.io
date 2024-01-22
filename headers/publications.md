@@ -6,7 +6,7 @@ permalink: /publications/
 
 <!-- ..................................................................................................................................... -->
 ### **[DEMO ABSTRACT: [MobiSys'23](https://www.sigmobile.org/mobisys/2023/)]** **Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders**  
-Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko
+Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko  
 ACM International Conference on Mobile Systems, Applications, and Services  
 [ [paper](https://dl.acm.org/doi/abs/10.1145/3581791.3597291) ]
 <!-- ..................................................................................................................................... -->
