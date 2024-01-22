@@ -28,9 +28,15 @@ permalink: /home/
 <!-- 새로운 내용 추가-->
 <p style="font-size: 1.5rem;">News</p>
 <ul style="font-size: 1.2rem;">
+  <li>2023.5
+    <ul>
+      <li>Our demo, "Exploiting Indices for Man-in-the-Middle Attacks on
+  Collaborative Unpooling Autoencoders" is accepted and will appear at <a href="https://www.sigmobile.org/mobisys/2023/">ACM MobiSys'23</a>.</li>
+    </ul>
+  </li>
   <li>2023.2
     <ul>
-      <li>Our poster, "RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</a>.</li>
+      <li>Our poster, "RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
     </ul>
   </li>
   <li>2022.12
