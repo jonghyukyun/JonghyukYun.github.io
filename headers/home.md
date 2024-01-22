@@ -29,3 +29,15 @@ permalink: /home/
 <!-- 새로운 내용 추가-->
 <p style="font-size: 1.5rem;">News</p>
 <p style="font-size: 1.2rem;"> </p>
+
+<style>
+@media (max-width: 768px) {
+  img {
+    max-width: 100%; /* 이미지는 모바일 환경에서 가득 채우도록 설정 */
+    margin-right: 0; /* 이미지의 오른쪽 마진 없음 */
+  }
+  p {
+    font-size: 1rem; /* 모바일 환경에서 문단 폰트 크기 조정 */
+  }
+}
+</style>
