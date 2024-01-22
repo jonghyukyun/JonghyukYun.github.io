@@ -22,5 +22,5 @@ ACM International Conference on Mobile Systems, Applications, and Services
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han  
 ACM International Workshop on Mobile Computing Systems and Applications  
 <span style="color: red;"><strong><em>BEST POSTER AWARD</em></strong></span> (*Poster accompanied full paper)  
-[ [paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580334) [slides](https://drive.google.com/file/d/1fXiNkK_Yi901q7NssSk9TylWzYm1Nvxb/view) ] 
+[ [paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580334) / [slides](https://drive.google.com/file/d/1fXiNkK_Yi901q7NssSk9TylWzYm1Nvxb/view) ] 
 <!-- ..................................................................................................................................... -->
