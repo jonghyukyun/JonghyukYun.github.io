@@ -3,7 +3,7 @@ layout: base
 title: Home
 permalink: /home/
 ---
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
   <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 50%; height: auto; margin-right: 10px; margin-bottom: 10px;">
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
