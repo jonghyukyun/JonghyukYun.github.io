@@ -39,7 +39,7 @@ permalink: /home/
 @media (max-width: 768px) {
   .image-container img {
     display: block;      /* 이미지를 블록 요소로 만듦 */
-    margin: 0 auto;      /* 상단과 하단 마진을 0으로, 좌우 마진을 auto로 설정하여 가운데 정렬 */
+    margin: auto auto;      /* 상단과 하단 마진을 0으로, 좌우 마진을 auto로 설정하여 가운데 정렬 */
     max-width: 70%;      /* 이미지의 최대 너비를 70%로 설정 */
     height: auto;        /* 이미지의 종횡비를 유지 */
   }
