@@ -35,18 +35,24 @@ permalink: /home/
 
 
 
-<!-- Mobile Site Marging Def -->
 <style>
 @media (max-width: 768px) {
   img {
-    max-width: 100%; /* Adjust the maximum width of the image */
-    margin: 0 auto; /* Center align the image horizontally */
-    /* display: block; Ensure the image is treated as a block-level element */
+    max-width: 100%; /* Allows the image to scale up to 100% of the container's width */
+    margin: 0 auto; /* Centers the image horizontally */
+    display: block; /* Ensures the image is treated as a block-level element for centering to work */
+  }
+  div, h2, p {
+    margin-left: 10px; /* Adds a small margin to the left for text elements */
+    margin-right: 10px; /* Adds a small margin to the right for text elements */
+  }
+  h2 {
+    font-size: 1.5rem; /* Adjusts the heading size for mobile */
   }
   p {
-    font-size: 1rem; /* Adjust the font size for paragraphs */
+    font-size: 1rem; /* Adjusts the paragraph font size for mobile */
   }
 }
-
+</style>
 
 
