@@ -5,9 +5,9 @@ permalink: /home/
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; position: relative;">
   <img src="/assets/child.png" alt="Jonghyuk Yun" id="original-image" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
-  <img src="/assets/current.png" alt="Jonghyuk Yun" id="hover-image" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px; position: absolute; top: 0; left: 0; display: none;">
+  <img src="/assets/current.png" alt="Jonghyuk Yun" id="hover-image" style="max-width: 30%; height: auto; position: absolute; top: 0; left: 50px; display: none;">
 </div>
-  <!-- 나머지 내용... -->
+
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
     <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
