@@ -3,18 +3,17 @@ layout: base
 title: C.V.
 permalink: /cv/
 ---
-
 <style>
   /* Default CSS for section titles */
   .section-title {
     font-size: 1.5rem;
-    margin-bottom: 10px;
+    margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
   }
 
   /* Default CSS for sub-section titles */
   .sub-section-title {
     font-size: 1.2rem;
-    margin-bottom: 10px;
+    margin-bottom: 5px; /* Reduce the margin-bottom for sub-section titles */
   }
 
   /* CSS for section titles on smaller screens (e.g., mobile) */
@@ -29,11 +28,18 @@ permalink: /cv/
 
     /* Reduce margins for mobile screens */
     hr {
-      margin-top: 5px;
-      margin-bottom: 5px;
+      margin-top: 2px; /* Reduce the margin-top for the horizontal line */
+      margin-bottom: 2px; /* Reduce the margin-bottom for the horizontal line */
     }
   }
+
+  /* Styling for commented lines */
+  .comment-line {
+    font-style: italic;
+    color: #777; /* You can adjust the color as needed */
+  }
 </style>
+
 
 <div class="section-title"><strong>Education</strong></div>
 <hr>
