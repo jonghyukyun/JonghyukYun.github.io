@@ -3,8 +3,8 @@ layout: base
 title: Home
 permalink: /home/
 ---
-<div style="display: flex; align-items: stretch; justify-content: center;">
-  <div style="display: flex; flex-direction: column; justify-content: space-between; margin-right: 50px;">
+<div class="content-container">
+  <div class="text-container">
     <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
     <div>
       <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
@@ -18,7 +18,7 @@ permalink: /home/
       <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
     </div>
   </div>
-  <img src="/assets/current.png" alt="Jonghyuk Yun" style="height: auto; max-width: 30%;">
+  <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun" style="height: auto; max-width: 30%;">
 </div>
 
 <!-- Add Line -->
@@ -60,13 +60,34 @@ permalink: /home/
 
 
 <style>
+/* Desktop styles */
+.content-container {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 50px;
+}
+.profile-image {
+  height: auto;
+  max-width: 30%;
+}
+
+/* Mobile styles */
 @media (max-width: 768px) {
-  .image-container img {
-    display: block;      /* 이미지를 블록 요소로 만듦 */
-    margin: auto auto;      /* 상단과 하단 마진을 0으로, 좌우 마진을 auto로 설정하여 가운데 정렬 */
-    max-width: 70%;      /* 이미지의 최대 너비를 70%로 설정 */
-    height: auto;        /* 이미지의 종횡비를 유지 */
+  .content-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .text-container {
+    margin-right: 0;
+    margin-top: 20px;
+  }
+  .profile-image {
+    max-width: 70%;
   }
 }
-</style>
-
