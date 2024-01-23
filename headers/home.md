@@ -18,7 +18,7 @@ permalink: /home/
       <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
     </div>
   </div>
-  <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun" style="height: auto; max-width: 30%;">
+  <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun">
 </div>
 
 <!-- Add Line -->
@@ -84,10 +84,14 @@ permalink: /home/
     align-items: center;
   }
   .text-container {
-    margin-right: 0;
-    margin-top: 20px;
+    order: 2; /* This ensures the text container moves below the image */
+    margin-right: 0; /* Removes the right margin on mobile */
+    margin-top: 20px; /* Adds some space between the image and text */
   }
   .profile-image {
-    max-width: 70%;
+    order: 1; /* This ensures the image is above the text */
+    max-width: 80%; /* Slightly enlarges the image on mobile */
+    margin-bottom: 20px; /* Adds some space below the image */
   }
 }
+</style>
