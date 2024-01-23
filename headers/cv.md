@@ -4,13 +4,22 @@ title: C.V.
 permalink: /cv/
 ---
 
-<p style="font-size: 1.5rem;"><strong>Education</strong></p>
-<ul style="font-size: 1.2rem;">
-  <li><strong>Yonsei University</strong>, Seoul, Korea
-    <ul>
-    </ul>
-  </li>
-  <li><strong>Konkuk University</strong>, Seoul, Korea
-    <ul>
-    </ul>
-  </li>
+<div style="font-size: 1.5rem; margin-bottom: 20px;"><strong>Education</strong></div>
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
+      <strong>Yonsei University</strong>, Seoul, Korea
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      Mar 2022 - Present
+    </div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
+      M.S./Ph.D., Electrical and Electronic Engineering
+    </div>
+  </div>
+  
+</div>
+
+<!-- Repeat the above structure for each educational entry -->
