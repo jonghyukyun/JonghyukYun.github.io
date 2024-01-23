@@ -5,7 +5,8 @@ permalink: /cv/
 ---
 
 <div style="font-size: 1.5rem; margin-bottom: 20px;"><strong>Education</strong></div>
-
+<!-- Add Line -->
+<hr> 
 <!-- Yonsei University -->
 <div style="display: table; width: 100%; margin-bottom: 20px;">
   <div style="display: table-row;">
@@ -32,6 +33,5 @@ permalink: /cv/
     </div>
   </div>
 </div>
-
 <!-- Add Line -->
 <hr> 
