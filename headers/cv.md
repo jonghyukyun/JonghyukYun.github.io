@@ -75,7 +75,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
       <strong>Excellence Award<br></strong>
-      <span style="font-size: 0.8em;">System Design and Practice (1) (ASRC Yonsei)</span>
+      <span style="font-size: 0.8em;">System Design and Practice (1) (ASRC, Yonsei)</span>
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Dec 2023
@@ -112,41 +112,44 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 </div>
 
-<!-- Honors and Awards -->
+<!-- Teacing Experience -->
 <!-- ............................................................................................................... -->
 <div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Teaching Experience</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
-<!-- ............ -->
-<div>
+
+<div style="display: table; width: 100%;">
+
+  <!-- Internet-of-Things Security -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong>Internet-of-Things Security<br></strong>
-      <span style="font-size: 0.8em;">Electrical and Electronic Engineering, Yonsei</span>
+      <strong>Internet-of-Things Security</strong><br>
+      Electrical and Electronic Engineering, Yonsei
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2023
     </div>
   </div>
-</div>
-<!-- ............ -->
-<div>
+
+  <!-- Masters Thesis Research -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong><br>Masters Thesis Research</strong>
-      <span style="font-size: 0.8em;">Electrical and Electronic Engineering, Yonsei</span>
+      <strong>Masters Thesis Research</strong><br>
+      Electrical and Electronic Engineering, Yonsei
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2022
     </div>
   </div>
-  <!-- ............ -->
+
+  <!-- Advanced Electrical and Electronic Design Laboratory and Software Practice -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong><br>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong>
-      <span style="font-size: 0.8em;">Electrical and Electronic Engineering, Konkuk</span>
+      <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
+      Electrical and Electronic Engineering, Konkuk
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2021
     </div>
   </div>
+
 </div>
