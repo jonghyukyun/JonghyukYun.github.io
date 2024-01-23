@@ -16,10 +16,23 @@ permalink: /cv/
   </div>
   <div style="display: table-row;">
     <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
-      M.S./Ph.D., Electrical and Electronic Engineering
+      M.S./Ph.D. Student, Electrical and Electronic Engineering
     </div>
   </div>
-  
 </div>
 
-<!-- Repeat the above structure for each educational entry -->
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
+      <strong>Konkuk University</strong>, Seoul, Korea
+    </div>
+    <div style="display: table-cell; vertical-align: top;">
+      Mar 2016 - Feb 2022
+    </div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
+      M.S./Ph.D. Student, Electrical and Electronic Engineering
+    </div>
+  </div>
+</div>
