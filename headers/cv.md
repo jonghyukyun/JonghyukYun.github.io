@@ -68,19 +68,19 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 
 <!-- Honors and Awards -->
 <!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 20px;"><strong>Awards and Honors</strong></div>
-<hr style="margin-top: 5px; margin-bottom: 10px;"> 
+<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Honors and Awards</strong></div>
+<hr style="margin-top: 5px; margin-bottom: 10px;">
 
-<div style="display: table; width: 100%;">
-
-  <!-- Each award entry is a table row -->
+<div style="display: table; width: 100%; margin-bottom: 20px;">
+  <!-- Repeat for other awards, following the same structure -->
   <div style="display: table-row;">
-    <div style="display: table-cell; vertical-align: top;">
-      HotMobile Best Poster Award<br>
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      Best Poster Award<br>
+      <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
     </div>
-    <div style="display: table-cell; text-align: right; vertical-align: top;">
-      2023
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Mar 2023
     </div>
   </div>
-
+  <!-- Continue adding more entries here -->
 </div>
