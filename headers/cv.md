@@ -72,6 +72,15 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <div style="display: table; width: 100%; margin-bottom: 20px;">
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      Excellence Award<br>
+      <span style="font-size: 0.8em;">System Design and Practice (ASRC)</span>
+    </div>
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Dec 2023
+    </div>
+  </div>
   <!-- Repeat for other awards, following the same structure -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
