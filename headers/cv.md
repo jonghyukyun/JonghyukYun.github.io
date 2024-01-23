@@ -4,11 +4,13 @@ title: C.V.
 permalink: /cv/
 ---
 
+
 <style>
 /* CSS for section titles */
 .section-title {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  color: deepblue; /* Change the color to deep blue */
 }
 </style>
 
