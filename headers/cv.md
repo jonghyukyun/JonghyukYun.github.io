@@ -75,7 +75,7 @@ permalink: /cv/
 <div class="section">
   <strong>Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders</strong><br>
   Kichang Lee, Jonghyuk Yun, Jun Han, and JeongGil Ko<br>
-  ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23</strong>)<br>
+  ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23 Demo</strong>)<br>
 </div>
 
 <!-- HotMobile'23 Paper -->

@@ -3,23 +3,23 @@ layout: base
 title: Home
 permalink: /home/
 ---
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-  <div style="flex: 1; align-self: stretch; display: flex; flex-direction: column; justify-content: space-between;">
-    <h2 style="font-size: 2rem; margin-top: 0;">Jonghyuk Yun (윤종혁)</h2>
-    <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
-    <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
-    <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
-    <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
-    <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
+<div style="display: flex; align-items: stretch; justify-content: center;">
+  <div style="display: flex; flex-direction: column; justify-content: space-between; margin-right: 50px;">
+    <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
+    <div>
+      <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
+      <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
+      <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
+      <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
+      <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
+    </div>
     <div style="margin-top: 20px;">
       <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>
       <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
     </div>
   </div>
-  <img src="/assets/current.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-left: 50px; align-self: stretch;">
+  <img src="/assets/current.png" alt="Jonghyuk Yun" style="height: auto; max-width: 30%;">
 </div>
-
-
 
 <!-- Add Line -->
 <hr> 
