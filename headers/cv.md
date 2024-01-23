@@ -59,7 +59,7 @@ permalink: /cv/
 <strong>Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders</strong><br>
 Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko<br>
 ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23</strong>)<br>
-<hr style="margin-top: 5px; margin-bottom: 10px;"> <!-- Horizontal line between publications -->
+<hr style="margin-top: 5px; margin-bottom: 10px;"> 
 
 <!-- HotMobile'23 -->
 <strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
