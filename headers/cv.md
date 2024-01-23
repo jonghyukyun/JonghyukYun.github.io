@@ -52,13 +52,16 @@ permalink: /cv/
 
 <div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Publications</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
-<!-- ..................................................................................................................................... -->
-**Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders**  
-Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko  
-ACM International Conference on Mobile Systems, Applications, and Services (MobiSys'23)
-<!-- ..................................................................................................................................... -->
-<!-- ..................................................................................................................................... -->
-**RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps**  
-<u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han  
-ACM International Workshop on Mobile Computing Systems and Applications (HotMobile'23)
-<!-- ..................................................................................................................................... -->
+<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Publications</strong></div>
+<hr style="margin-top: 5px; margin-bottom: 10px;"> 
+
+<!-- MobiSys'23 Demo -->
+<strong>Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders</strong><br>
+Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko<br>
+ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23</strong>)<br>
+<hr style="margin-top: 5px; margin-bottom: 10px;"> <!-- Horizontal line between publications -->
+
+<!-- HotMobile'23 -->
+<strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
+<u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han<br>
+ACM International Workshop on Mobile Computing Systems and Applications (<strong>HotMobile'23</strong>)
