@@ -11,8 +11,14 @@ permalink: /home/
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
     <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
     <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
+    
+<div style="margin-top: 20px;">
+      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank"><img src="/_includes/social-icons/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px;"></a>
+      <!-- Google Scholar 아이콘을 추가할 경우 여기에 추가 -->
+    </div>
   </div>
 </div>
+
 
 <!-- Add Line -->
 <hr> 
