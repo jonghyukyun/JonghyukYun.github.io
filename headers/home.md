@@ -5,7 +5,7 @@ permalink: /home/
 ---
 <div class="content-container">
   <div class="text-container">
-    <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
+    <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <div>
       <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
       <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
