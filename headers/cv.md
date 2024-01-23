@@ -5,44 +5,44 @@ permalink: /cv/
 ---
 
 <style>
-  /* Default CSS for section titles */
+  /* CSS for section titles */
   .section-title {
     font-size: 1.5rem;
-    margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
+    margin-bottom: 0; /* Remove the bottom margin for section titles */
   }
 
-  /* Default CSS for sub-section titles */
+  /* CSS for sub-section titles */
   .sub-section-title {
     font-size: 1.2rem;
-    margin-bottom: 5px; /* Reduce the margin-bottom for sub-section titles */
+    margin-bottom: 0; /* Remove the bottom margin for sub-section titles */
+  }
+
+  /* CSS for horizontal rules to reduce the gap */
+  hr {
+    margin-top: 10px; /* Adjust this value as needed to reduce the gap */
+    margin-bottom: 20px; /* Adjust this value as needed if you want to control the bottom gap */
   }
 
   /* CSS for section titles on smaller screens (e.g., mobile) */
   @media (max-width: 768px) {
     .section-title {
       font-size: 1.2rem;
-      margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
     }
 
     .sub-section-title {
       font-size: 1rem;
-      margin-bottom: 5px; /* Reduce the margin-bottom for sub-section titles */
     }
-
-    /* Reduce margins for mobile screens */
-    hr {
-      margin-top: 10px; /* Adjust this value as needed to reduce the gap */
-      margin-bottom: 10px; /* Adjust this value as needed if you want to control the bottom gap as well */
-    }
-
   }
 
-  /* Styling for commented lines */
-  .comment-line {
-    font-style: italic;
-    color: #777; /* You can adjust the color as needed */
+  /* Styling for dates */
+  .date {
+    color: #777; /* Adjust the color for dates */
   }
 </style>
+
+<!-- Your HTML content starts here -->
+<div class="section-title"><strong>Education</strong></div>
+<hr>
 
 
 
