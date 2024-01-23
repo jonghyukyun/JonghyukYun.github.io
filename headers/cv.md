@@ -4,8 +4,15 @@ title: C.V.
 permalink: /cv/
 ---
 
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Education</strong></div>
-<!-- Reduce margin around the hr -->
+<style>
+/* CSS for section titles */
+.section-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+</style>
+
+<div class="section-title"><strong>Education</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
 <!-- Yonsei University -->
 <div style="display: table; width: 100%; margin-bottom: 20px;">
@@ -34,25 +41,8 @@ permalink: /cv/
   </div>
 </div>
 
-<style>
-/* CSS for mobile screens */
-@media (max-width: 768px) {
-  .date {
-    white-space: nowrap;
-  }
-  .date br {
-    display: none;
-  }
-  .date::after {
-    content: ' ';
-    display: block;
-  }
-}
-</style>
-
 <!-- Publications -->
-<!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Publications</strong></div>
+<div class="section-title"><strong>Publications</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
 
 <!-- MobiSys'23 Demo -->
@@ -64,11 +54,9 @@ ACM International Conference on Mobile Systems, Applications, and Services (<str
 <strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han<br>
 ACM International Workshop on Mobile Computing Systems and Applications (<strong>HotMobile'23</strong>)
-<!-- ............................................................................................................... -->
 
 <!-- Honors and Awards -->
-<!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Honors and Awards</strong></div>
+<div class="section-title"><strong>Honors and Awards</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <div style="display: table; width: 100%; margin-bottom: 20px;">
@@ -112,9 +100,8 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 </div>
 
-<!-- Teacing Experience -->
-<!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Teaching Assistant</strong></div>
+<!-- Teaching Assistant -->
+<div class="section-title"><strong>Teaching Assistant</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <div style="display: table; width: 100%;">
@@ -153,11 +140,8 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 </div>
 
-
-
 <!-- Research Experience -->
-<!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Research Experience</strong></div>
+<div class="section-title"><strong>Research Experience</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <div style="display: table; width: 100%;">
@@ -172,7 +156,6 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
     </div>
   </div>
 
-
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
       <strong>Research Intern</strong><br>
@@ -184,8 +167,6 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 </div>
 
-
 <!-- Professional Services -->
-<!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Professional Services</strong></div>
+<div class="section-title"><strong>Professional Services</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
