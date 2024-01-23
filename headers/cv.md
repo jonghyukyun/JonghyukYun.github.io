@@ -83,4 +83,13 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
     </div>
   </div>
   <!-- Continue adding more entries here -->
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      Student Travel Grant<br>
+      <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
+    </div>
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Mar 2023
+    </div>
+  </div>
 </div>
