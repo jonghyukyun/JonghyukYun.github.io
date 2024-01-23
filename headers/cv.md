@@ -31,8 +31,10 @@ permalink: /cv/
 
     /* Reduce margins for mobile screens */
     hr {
-      margin: 2px 0; /* Set margin to 2px on top and bottom to minimize the gap */
+      margin-top: 10px; /* Adjust this value as needed to reduce the gap */
+      margin-bottom: 10px; /* Adjust this value as needed if you want to control the bottom gap as well */
     }
+
   }
 
   /* Styling for commented lines */
