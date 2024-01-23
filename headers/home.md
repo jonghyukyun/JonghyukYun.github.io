@@ -7,14 +7,14 @@ permalink: /home/
   <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
-    <p style="font-size: 1.5rem;">MS/Ph.D. Student</p>
+    <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
     <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
     <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
     
 <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank"><img src="/assets/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px;"></a>
-    <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank"><img src="/_includes/social-icons/google_scholar.svg" alt="GoogleScholar" style="width: 40px; height: 40px; margin-right: 10px;"></a>
+    <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank"><img src="/assets/google_scholar.svg" alt="GoogleScholar" style="width: 40px; height: 40px; margin-right: 10px;"></a>
 </div>
 
   </div>
@@ -27,7 +27,7 @@ permalink: /home/
 <!-- About Me -->
 <p style="font-size: 1.5rem;"><strong>About me</strong></p>
 
-<p style="font-size: 1.2rem;">I am an integrated MS/Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
+<p style="font-size: 1.2rem;">I am an integrated M.S./Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
 
 <!-- Add Line -->
 <hr> 
