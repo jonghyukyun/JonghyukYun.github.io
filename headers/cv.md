@@ -10,14 +10,13 @@ permalink: /cv/
 .section-title {
   font-size: 1.5rem;
   margin-bottom: 10px;
-  color: red; /* Change the color to deep blue */
+  color: blue; /* Change the color to deep blue */
 }
 
 /* Default CSS for sub-section titles */
 .sub-section-title {
   font-size: 1.2rem;
   margin-bottom: 10px;
-  color: red; /* Change the color to deep blue */
 }
 
 /* CSS for section titles on smaller screens (e.g., mobile) */
