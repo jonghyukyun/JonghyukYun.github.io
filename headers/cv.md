@@ -28,11 +28,24 @@ permalink: /cv/
       <strong>Konkuk University</strong>, Seoul, Korea<br>
       B.S., Electrical and Electronic Engineering
     </div>
-    <div style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
-      Mar 2016 -<br>Feb 2022
+    <div class="date" style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
+      Mar 2016 - Feb 2022
     </div>
   </div>
 </div>
-<!-- Adjust the bottom hr to be closer -->
-<hr style="margin-top: 10px; margin-bottom: 0;"> 
 
+<style>
+/* CSS for mobile screens */
+@media (max-width: 768px) {
+  .date {
+    white-space: nowrap;
+  }
+  .date br {
+    display: none;
+  }
+  .date::after {
+    content: ' ';
+    display: block;
+  }
+}
+</style>
