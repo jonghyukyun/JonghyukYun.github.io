@@ -7,6 +7,15 @@ permalink: /publications/
 
 <!-- Add Line -->
 <hr> 
+## 2024
+<!-- ..................................................................................................................................... -->
+### **[Under Review]** **Anonymized Paper**  
+<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han
+ACM International Conference on Mobile Systems, Applications, and Services  
+<!-- ..................................................................................................................................... -->
+
+<!-- Add Line -->
+<hr> 
 ## 2023
 <!-- ..................................................................................................................................... -->
 ### **[[HotMobile'23](https://hotmobile.org/2023/)]** **RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps**  
