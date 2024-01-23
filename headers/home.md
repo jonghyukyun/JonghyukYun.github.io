@@ -13,9 +13,10 @@ permalink: /home/
     <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
     
 <div style="margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank"><img src="/_includes/social-icons/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px;"></a>
-      <!-- Google Scholar 아이콘을 추가할 경우 여기에 추가 -->
-    </div>
+    <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank"><img src="/_includes/social-icons/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px;"></a>
+    <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank"><img src="/_includes/social-icons/google_scholar.svg" alt="GoogleScholar" style="width: 40px; height: 40px; margin-right: 10px;"></a>
+</div>
+
   </div>
 </div>
 
