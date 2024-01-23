@@ -70,7 +70,7 @@ Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko<br>
 ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23</strong>)<br>
 
 <!-- HotMobile'23 -->
-<div class="sub-section-title"><strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong></div>
+<strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han<br>
 ACM International Workshop on Mobile Computing Systems and Applications (<strong>HotMobile'23</strong>)
 
@@ -126,35 +126,41 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 <div style="display: table; width: 100%;">
 
   <!-- Internet-of-Things Security -->
-  <div style="display: table-row;">
-    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong>Internet-of-Things Security</strong><br>
-      Electrical and Electronic Engineering, Yonsei
-    </div>
-    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
-      Fall 2023
+  <div class="ta-entry">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Internet-of-Things Security</strong><br>
+        Electrical and Electronic Engineering, Yonsei
+      </div>
+      <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2023
+      </div>
     </div>
   </div>
 
   <!-- Masters Thesis Research -->
-  <div class="sub-section-title"><strong>Masters Thesis Research</strong></div>
-  <div style="display: table-row;">
-    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      Electrical and Electronic Engineering, Yonsei
-    </div>
-    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
-      Fall 2022
+  <div class="ta-entry">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Masters Thesis Research</strong><br>
+        Electrical and Electronic Engineering, Yonsei
+      </div>
+      <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2022
+      </div>
     </div>
   </div>
 
   <!-- Advanced Electrical and Electronic Design Laboratory and Software Practice -->
-  <div class="sub-section-title"><strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong></div>
-  <div style="display: table-row;">
-    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      Electrical and Electronic Engineering, Konkuk
-    </div>
-    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
-      Fall 2021
+  <div class="ta-entry">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
+        Electrical and Electronic Engineering, Konkuk
+      </div>
+      <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2021
+      </div>
     </div>
   </div>
 </div>
