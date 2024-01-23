@@ -6,11 +6,29 @@ permalink: /cv/
 
 
 <style>
-/* CSS for section titles */
+/* Default CSS for section titles */
 .section-title {
   font-size: 1.5rem;
   margin-bottom: 10px;
   color: red; /* Change the color to deep blue */
+}
+
+/* Default CSS for sub-section titles */
+.sub-section-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: red; /* Change the color to deep blue */
+}
+
+/* CSS for section titles on smaller screens (e.g., mobile) */
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 1.2rem;
+  }
+  
+  .sub-section-title {
+    font-size: 1rem;
+  }
 }
 </style>
 
@@ -53,7 +71,7 @@ Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han, and JeongGil Ko<br>
 ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'23</strong>)<br>
 
 <!-- HotMobile'23 -->
-<strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
+<div class="sub-section-title"><strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong></div>
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han<br>
 ACM International Workshop on Mobile Computing Systems and Applications (<strong>HotMobile'23</strong>)
 
@@ -114,29 +132,29 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Internet-of-Things Security</strong><br>
       Electrical and Electronic Engineering, Yonsei
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2023
     </div>
   </div>
 
   <!-- Masters Thesis Research -->
+  <div class="sub-section-title"><strong>Masters Thesis Research</strong></div>
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong>Masters Thesis Research</strong><br>
       Electrical and Electronic Engineering, Yonsei
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2022
     </div>
   </div>
 
   <!-- Advanced Electrical and Electronic Design Laboratory and Software Practice -->
+  <div class="sub-section-title"><strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong></div>
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
       Electrical and Electronic Engineering, Konkuk
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Fall 2021
     </div>
   </div>
@@ -153,7 +171,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Research Intern</strong><br>
       Cyber-physical Systems and Security Lab (CyPhy Lab)
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Jan 2022 - Feb 2022
     </div>
   </div>
@@ -163,7 +181,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Research Intern</strong><br>
       SkyAutonet 
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Jul 2021 - Aug 2021
     </div>
   </div>
