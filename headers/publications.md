@@ -10,7 +10,7 @@ permalink: /publications/
 ## 2024
 <!-- ..................................................................................................................................... -->
 ### **[Under Review]** **Anonymized Paper**  
-<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han
+<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han  
 ACM International Conference on Mobile Systems, Applications, and Services  
 <!-- ..................................................................................................................................... -->
 
