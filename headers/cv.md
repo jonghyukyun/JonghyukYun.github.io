@@ -15,7 +15,7 @@ permalink: /cv/
       M.S./Ph.D. Student, Electrical and Electronic Engineering<br>
       Advisor: Jun Han
     </div>
-    <div style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
       Mar 2022 - Present
     </div>
   </div>
