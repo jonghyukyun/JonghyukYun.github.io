@@ -1,35 +1,61 @@
----
-layout: base
-title: C.V.
-permalink: /cv/
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>C.V.</title>
 
+  <style>
+    /* CSS for section titles */
+    .section-title {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      color: blue; /* Deep blue color for section titles */
+    }
 
-<style>
-/* Default CSS for section titles */
-.section-title {
-  font-size: 1.5rem;
-  margin-bottom: 10px;
-  color: blue; /* Change the color to deep blue */
-}
+    /* CSS for service entries */
+    .service-entry {
+      display: table;
+      width: 100%;
+      margin-bottom: 20px;
+    }
 
-/* Default CSS for sub-section titles */
-.sub-section-title {
-  font-size: 1.2rem;
-  margin-bottom: 10px;
-}
+    .service-entry > div {
+      display: table-row;
+    }
 
-/* CSS for section titles on smaller screens (e.g., mobile) */
-@media (max-width: 768px) {
-  .section-title {
-    font-size: 1.2rem;
-  }
-  
-  .sub-section-title {
-    font-size: 1rem;
-  }
-}
-</style>
+    .service-entry > div > div {
+      display: table-cell;
+      vertical-align: top;
+      padding-right: 15px;
+    }
+
+    .service-entry strong {
+      font-weight: bold;
+    }
+
+    .service-entry .date {
+      display: table-cell;
+      vertical-align: top;
+      text-align: right;
+    }
+
+    /* CSS for mobile screens */
+    @media (max-width: 768px) {
+      .date {
+        white-space: nowrap;
+      }
+      .date br {
+        display: none;
+      }
+      .date::after {
+        content: ' ';
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
 
 <div class="section-title"><strong>Education</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
@@ -84,7 +110,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Excellence Award<br></strong>
       <span style="font-size: 0.8em;">System Design and Practice (1) (ASRC, Yonsei)</span>
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Dec 2023
     </div>
   </div>
@@ -94,7 +120,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Best Poster Award<br></strong>
       <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Mar 2023
     </div>
   </div>
@@ -104,7 +130,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Student Travel Grant<br></strong>
       <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Mar 2023
     </div>
   </div>
@@ -113,7 +139,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       <strong>Bronze Award<br></strong>
       <span style="font-size: 0.8em;">Konkuk University Software Contest</span>
     </div>
-    <div style="display: table-cell; vertical-align: top; text-align: right;">
+    <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
       Dec 2021
     </div>
   </div>
@@ -126,7 +152,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 <div style="display: table; width: 100%;">
 
   <!-- Internet-of-Things Security -->
-  <div class="ta-entry">
+  <div class="service-entry">
     <div style="display: table-row;">
       <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
         <strong>Internet-of-Things Security</strong><br>
@@ -139,7 +165,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 
   <!-- Masters Thesis Research -->
-  <div class="ta-entry">
+  <div class="service-entry">
     <div style="display: table-row;">
       <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
         <strong>Masters Thesis Research</strong><br>
@@ -152,7 +178,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   </div>
 
   <!-- Advanced Electrical and Electronic Design Laboratory and Software Practice -->
-  <div class="ta-entry">
+  <div class="service-entry">
     <div style="display: table-row;">
       <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
         <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
@@ -195,3 +221,36 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 <!-- Professional Services -->
 <div class="section-title"><strong>Professional Services</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
+
+<!-- Define a class for the service entries -->
+<div class="service-entry">
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Service Title</strong><br>
+        Description of the service
+      </div>
+      <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
+        Date
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Repeat the service entries with the same structure for each service -->
+<div class="service-entry">
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Another Service Title</strong><br>
+        Description of another service
+      </div>
+      <div class="date" style="display: table-cell; vertical-align: top; text-align: right;">
+        Another Date
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
