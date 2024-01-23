@@ -29,7 +29,7 @@ permalink: /cv/
       B.S., Electrical and Electronic Engineering
     </div>
     <div style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
-      Mar 2016 - Feb 2022
+      Mar 2016 -<br>Feb 2022
     </div>
   </div>
 </div>
