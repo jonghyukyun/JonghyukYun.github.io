@@ -114,7 +114,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 
 <!-- Teacing Experience -->
 <!-- ............................................................................................................... -->
-<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Teaching Experience</strong></div>
+<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Teaching Assistant</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <div style="display: table; width: 100%;">
@@ -151,5 +151,33 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
       Fall 2021
     </div>
   </div>
+</div>
 
+<!-- Research Experience -->
+<!-- ............................................................................................................... -->
+<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Research Experience</strong></div>
+<hr style="margin-top: 5px; margin-bottom: 10px;">
+
+<div style="display: table; width: 100%;">
+
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      <strong>Research Intern</strong><br>
+      Cyber-physical Systems and Security Lab (CyPhy Lab)
+    </div>
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Jan 2022 - Feb 2022
+    </div>
+  </div>
+
+
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      <strong>Research Intern</strong><br>
+      SkyAutonet 
+    </div>
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Jul 2021 - Aug 2021
+    </div>
+  </div>
 </div>
