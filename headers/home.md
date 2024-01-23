@@ -5,7 +5,7 @@ permalink: /home/
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; position: relative;">
   <img src="/assets/child.png" alt="Jonghyuk Yun" id="original-image" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
-  <img src="/assets/other-image.png" alt="Jonghyuk Yun" id="hover-image" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px; position: absolute; top: 0; left: 0; display: none;">
+  <img src="/assets/current.png" alt="Jonghyuk Yun" id="hover-image" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px; position: absolute; top: 0; left: 0; display: none;">
 </div>
   <!-- 나머지 내용... -->
   <div style="flex: 1;">
@@ -14,15 +14,30 @@ permalink: /home/
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
     <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
     <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
-    
+  </div>
+
 <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>
     <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
 </div>
 
-  </div>
 </div>
 
+<style>
+  #hover-image:hover {
+    display: block;
+  }
+</style>
+
+<script>
+  document.getElementById('original-image').addEventListener('mouseover', function() {
+    document.getElementById('hover-image').style.display = 'block';
+  });
+
+  document.getElementById('hover-image').addEventListener('mouseout', function() {
+    this.style.display = 'none';
+  });
+</script>
 
 <!-- Add Line -->
 <hr> 
