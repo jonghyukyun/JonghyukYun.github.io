@@ -50,6 +50,8 @@ permalink: /cv/
 }
 </style>
 
+<!-- Publications -->
+<!-- ............................................................................................................... -->
 <div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Publications</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
 
@@ -62,3 +64,22 @@ ACM International Conference on Mobile Systems, Applications, and Services (<str
 <strong>RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps</strong><br>
 <u>Jonghyuk Yun</u>, Gyuyeon Kim, Soundarya Ramesh, and Jun Han<br>
 ACM International Workshop on Mobile Computing Systems and Applications (<strong>HotMobile'23</strong>)
+<!-- ............................................................................................................... -->
+
+<!-- Honors and Awards -->
+<!-- ............................................................................................................... -->
+<div style="font-size: 1.5rem; margin-bottom: 20px;"><strong>Awards and Honors</strong></div>
+
+<div style="display: table; width: 100%;">
+
+  <!-- Each award entry is a table row -->
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top;">
+      <strong>HotMobile Best Poster Award</strong><br>
+    </div>
+    <div style="display: table-cell; text-align: right; vertical-align: top;">
+      2023
+    </div>
+  </div>
+
+</div>
