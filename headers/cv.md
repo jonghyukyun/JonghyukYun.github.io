@@ -12,6 +12,5 @@ permalink: /cv/
   </li>
   <li><strong>Konkuk University</strong>, Seoul, Korea
     <ul>
-      <li>Our demo, "Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders" is accepted and will appear at <a href="https://www.sigmobile.org/mobisys/2023/">ACM MobiSys'23</a>.</li>
     </ul>
   </li>
