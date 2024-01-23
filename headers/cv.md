@@ -11,7 +11,7 @@ permalink: /cv/
       <strong>Yonsei University</strong>, Seoul, Korea
     </div>
     <div style="display: table-cell; vertical-align: top;">
-      Mar 2022 - Present
+      Mar 2022 - Present 
     </div>
   </div>
   <div style="display: table-row;">
@@ -32,7 +32,7 @@ permalink: /cv/
   </div>
   <div style="display: table-row;">
     <div style="display: table-cell; padding-right: 15px; vertical-align: top;">
-      M.S./Ph.D. Student, Electrical and Electronic Engineering
+      B.S., Electrical and Electronic Engineering
     </div>
   </div>
 </div>
