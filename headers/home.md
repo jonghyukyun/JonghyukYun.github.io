@@ -6,7 +6,7 @@ permalink: /home/
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
   <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
+    <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
     <p style="font-size: 1.5rem;">MS/Ph.D. Student</p>
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
     <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
@@ -17,7 +17,7 @@ permalink: /home/
 <!-- Add Line -->
 <hr> 
 
-<!-- 새로운 내용 추가-->
+<!-- About Me -->
 <p style="font-size: 1.5rem;"><strong>About me</strong></p>
 
 <p style="font-size: 1.2rem;">I am an integrated MS/Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
@@ -25,12 +25,12 @@ permalink: /home/
 <!-- Add Line -->
 <hr> 
 
-<!-- 새로운 내용 추가-->
+<!-- News -->
 <p style="font-size: 1.5rem;"><strong>News</strong></p>
 <ul style="font-size: 1.2rem;">
   <li>2023.12
     <ul>
-      <li>I won an excellence award in the project-based learning class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
+      <li>I won an excellence award in the system design and practice class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
       </li>
     </ul>
   </li>
