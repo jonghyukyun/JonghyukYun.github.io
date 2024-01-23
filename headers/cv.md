@@ -74,7 +74,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
 <div style="display: table; width: 100%; margin-bottom: 20px;">
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      Excellence Award<br>
+      <strong>Excellence Award<br></strong>
       <span style="font-size: 0.8em;">System Design and Practice (ASRC)</span>
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
@@ -84,7 +84,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   <!-- Repeat for other awards, following the same structure -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      Best Poster Award<br>
+      <strong>Best Poster Award<br></strong>
       <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
@@ -94,7 +94,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   <!-- Continue adding more entries here -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
-      Student Travel Grant<br>
+      <strong>Student Travel Grant<br></strong>
       <span style="font-size: 0.8em;">ACM Workshop on Mobile Computing Systems and Applications (HotMobile'23)</span>
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
