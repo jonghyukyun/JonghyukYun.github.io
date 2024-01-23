@@ -4,13 +4,15 @@ title: Home
 permalink: /home/
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <img src="/assets/child.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
+  <img src="/assets/current.png" alt="Jonghyuk Yun" style="max-width: 30%; height: auto; margin-right: 50px; margin-bottom: 30px;">
   <div style="flex: 1;">
     <h2 style="font-size: 2rem;">Jonghyuk Yun (윤종혁)</h2>
     <p style="font-size: 1.5rem;">M.S./Ph.D. Student</p>
     <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
     <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
     <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
+    <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
+
     
 <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>

@@ -149,50 +149,88 @@ permalink: /cv/
   </div>
 </div>
 
-<!-- Teaching Assistant -->
+
 <div class="section-title"><strong>Teaching Assistant</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <!-- IoT Security -->
 <div class="section">
-  <strong>Internet-of-Things Security</strong><br>
-  Electrical and Electronic Engineering, Yonsei<br>
-  Fall 2023
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Internet-of-Things Security</strong><br>
+        Electrical and Electronic Engineering, Yonsei
+      </div>
+      <div style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2023
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Master Thesis Research -->
 <div class="section">
-  <strong>Masters Thesis Research</strong><br>
-  Electrical and Electronic Engineering, Yonsei<br>
-  Fall 2022
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Masters Thesis Research</strong><br>
+        Electrical and Electronic Engineering, Yonsei
+      </div>
+      <div style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2022
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Advanced Design Lab -->
 <div class="section">
-  <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
-  Electrical and Electronic Engineering, Konkuk<br>
-  Fall 2021
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Advanced Electrical and Electronic Design Laboratory and Software Practice</strong><br>
+        Electrical and Electronic Engineering, Konkuk
+      </div>
+      <div style="display: table-cell; vertical-align: top; text-align: right;">
+        Fall 2021
+      </div>
+    </div>
+  </div>
 </div>
 
-<!-- Research Experience -->
 <div class="section-title"><strong>Research Experience</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
 
 <!-- CyPhy Lab Intern -->
 <div class="section">
-  <strong>Research Intern</strong><br>
-  Cyber-physical Systems and Security Lab (CyPhy Lab)<br>
-  Jan 2022 - Feb 2022
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Research Intern</strong><br>
+        Cyber-physical Systems and Security Lab (CyPhy Lab)
+      </div>
+      <div style="display: table-cell; vertical-align: top; text-align: right;">
+        Jan 2022 - Feb 2022
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- SkyAutonet Intern -->
 <div class="section">
-  <strong>Research Intern</strong><br>
-  SkyAutonet<br>
-  Jul 2021 - Aug 2021
+  <div style="display: table; width: 100%;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+        <strong>Research Intern</strong><br>
+        SkyAutonet
+      </div>
+      <div style="display: table-cell; vertical-align: top; text-align: right;">
+        Jul 2021 - Aug 2021
+      </div>
+    </div>
+  </div>
 </div>
 
-<!-- Professional Services -->
 <div class="section-title"><strong>Professional Services</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;">
-<!-- Add Professional Services content here -->
+<!-- Add Professional Services content here with the same structure -->
