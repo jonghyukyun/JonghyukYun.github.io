@@ -75,7 +75,7 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
       <strong>Excellence Award<br></strong>
-      <span style="font-size: 0.8em;">System Design and Practice (ASRC)</span>
+      <span style="font-size: 0.8em;">System Design and Practice (1) (ASRC Yonsei)</span>
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Dec 2023
@@ -99,6 +99,15 @@ ACM International Workshop on Mobile Computing Systems and Applications (<strong
     </div>
     <div style="display: table-cell; vertical-align: top; text-align: right;">
       Mar 2023
+    </div>
+  </div>
+  <div style="display: table-row;">
+    <div style="display: table-cell; vertical-align: top; padding-right: 15px;">
+      <strong>Bronze Award<br></strong>
+      <span style="font-size: 0.8em;">Konkuk University Software Contest</span>
+    </div>
+    <div style="display: table-cell; vertical-align: top; text-align: right;">
+      Dec 2021
     </div>
   </div>
 </div>
