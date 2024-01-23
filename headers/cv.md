@@ -4,12 +4,11 @@ title: C.V.
 permalink: /cv/
 ---
 
-
 <style>
   /* Default CSS for section titles */
   .section-title {
     font-size: 1.5rem;
-    margin-bottom: 10px; /* Maintain the gap between sections */
+    margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
   }
 
   /* Default CSS for sub-section titles */
@@ -22,7 +21,7 @@ permalink: /cv/
   @media (max-width: 768px) {
     .section-title {
       font-size: 1.2rem;
-      margin-bottom: 10px; /* Maintain the gap between sections */
+      margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
     }
 
     .sub-section-title {
@@ -32,8 +31,7 @@ permalink: /cv/
 
     /* Reduce margins for mobile screens */
     hr {
-      margin-top: 2px; /* Reduce the margin-top for the horizontal line */
-      margin-bottom: 2px; /* Reduce the margin-bottom for the horizontal line */
+      margin: 2px 0; /* Set margin to 2px on top and bottom to minimize the gap */
     }
   }
 
