@@ -3,11 +3,13 @@ layout: base
 title: C.V.
 permalink: /cv/
 ---
+
+
 <style>
   /* Default CSS for section titles */
   .section-title {
     font-size: 1.5rem;
-    margin-bottom: 5px; /* Reduce the margin-bottom for section titles */
+    margin-bottom: 10px; /* Maintain the gap between sections */
   }
 
   /* Default CSS for sub-section titles */
@@ -20,10 +22,12 @@ permalink: /cv/
   @media (max-width: 768px) {
     .section-title {
       font-size: 1.2rem;
+      margin-bottom: 10px; /* Maintain the gap between sections */
     }
 
     .sub-section-title {
       font-size: 1rem;
+      margin-bottom: 5px; /* Reduce the margin-bottom for sub-section titles */
     }
 
     /* Reduce margins for mobile screens */
@@ -39,6 +43,7 @@ permalink: /cv/
     color: #777; /* You can adjust the color as needed */
   }
 </style>
+
 
 
 <div class="section-title"><strong>Education</strong></div>
