@@ -4,9 +4,9 @@ title: C.V.
 permalink: /cv/
 ---
 
-<div style="font-size: 1.5rem; margin-bottom: 20px;"><strong>Education</strong></div>
-<!-- Add Line -->
-<hr> 
+<div style="font-size: 1.5rem; margin-bottom: 10px;"><strong>Education</strong></div>
+<!-- Reduce margin around the hr -->
+<hr style="margin-top: 5px; margin-bottom: 10px;"> 
 <!-- Yonsei University -->
 <div style="display: table; width: 100%; margin-bottom: 20px;">
   <div style="display: table-row;">
@@ -33,5 +33,6 @@ permalink: /cv/
     </div>
   </div>
 </div>
-<!-- Add Line -->
-<hr> 
+<!-- Adjust the bottom hr to be closer -->
+<hr style="margin-top: 10px; margin-bottom: 0;"> 
+
