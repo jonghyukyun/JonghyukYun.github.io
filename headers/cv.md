@@ -42,7 +42,7 @@ permalink: /cv/
     <div style="display: table-row;">
       <div style="display: table-cell; padding-right: 15px; vertical-align: top; width: 60%;">
         <strong>Yonsei University</strong>, Seoul, Korea<br>
-        M.S./Ph.D. Student, Electrical and Electronic Engineering<br>
+        M.S. Student, Electrical and Electronic Engineering<br>
         Advisor: Jun Han
       </div>
       <div class="date" style="display: table-cell; vertical-align: top; width: 40%; text-align: right;">
