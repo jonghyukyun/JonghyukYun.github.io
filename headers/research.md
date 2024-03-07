@@ -9,16 +9,10 @@ permalink: /research/
 <hr> 
 ## 2024
 <!-- ..................................................................................................................................... -->
-<!-- ### **[Under Review]** **Anonymized Paper**  
+<!-- ### **[To Appear][[MobiSys'24](https://www.sigmobile.org/mobisys/2024)]** **PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone**   
 <u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han  
 ACM International Conference on Mobile Systems, Applications, and Services   -->
 <!-- ..................................................................................................................................... -->
-<!-- ..................................................................................................................................... -->
-<!-- ### **[Under Review]** **Anonymized Paper**  
-Kichang Lee, <u>Jonghyuk Yun</u>, Jun Han and Jeonggil Ko  
-ACM International Joint Conference on Pervasive and Ubiquitous Computing -->
-<!-- ..................................................................................................................................... -->
-
 <!-- Add Line -->
 <hr> 
 ## 2023

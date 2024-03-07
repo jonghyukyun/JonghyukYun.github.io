@@ -7,7 +7,7 @@ permalink: /home/
   <div class="text-container">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <div>
-      <p style="font-size: 1.5rem;">M.S. Student</p>
+      <p style="font-size: 1.5rem;">Ph.D. Student</p>
       <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
       <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
       <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
@@ -27,7 +27,7 @@ permalink: /home/
 <!-- About Me -->
 <p style="font-size: 1.5rem;"><strong>About me</strong></p>
 
-<p style="font-size: 1.2rem;">I am an M.S. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
+<p style="font-size: 1.2rem;">I am an Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
 
 <!-- Add Line -->
 <hr> 
@@ -35,6 +35,12 @@ permalink: /home/
 <!-- News -->
 <p style="font-size: 1.5rem;"><strong>News</strong></p>
 <ul style="font-size: 1.2rem;">
+  <!-- <li>2024.3
+    <ul>
+      <li>Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is conditionally accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      </li>
+    </ul>
+  </li> -->
   <li>2023.12
     <ul>
       <li>I won an excellence award in the system design and practice class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
