@@ -9,9 +9,9 @@ permalink: /research/
 <hr> 
 ## 2024
 <!-- ..................................................................................................................................... -->
-<!-- ### **[To Appear][[MobiSys'24](https://www.sigmobile.org/mobisys/2024)]** **PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone**   
-<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han  
-ACM International Conference on Mobile Systems, Applications, and Services   -->
+### **[[MobiSys'24](https://www.sigmobile.org/mobisys/2024)]** **PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone**   
+<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han (conditionally accepted)
+ACM International Conference on Mobile Systems, Applications, and Services  
 <!-- ..................................................................................................................................... -->
 <!-- Add Line -->
 <hr> 

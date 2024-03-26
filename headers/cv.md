@@ -71,6 +71,13 @@ permalink: /cv/
 <div class="section-title"><strong>Publications</strong></div>
 <hr style="margin-top: 5px; margin-bottom: 10px;"> 
 
+<!-- MobiSys'24 Paper -->
+<div class="section">
+  <strong>[To Appear] PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone</strong><br>
+  <br>
+  ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'24</strong>)<br>
+</div>
+
 <!-- MobiSys'23 Paper -->
 <div class="section">
   <strong>Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders</strong><br>
