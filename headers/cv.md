@@ -74,7 +74,7 @@ permalink: /cv/
 <!-- MobiSys'24 Paper -->
 <div class="section">
   <strong>[To Appear] PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone</strong><br>
-  <br>
+  Jonghyuk Yun, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han (conditionally accepted)<br>
   ACM International Conference on Mobile Systems, Applications, and Services (<strong>MobiSys'24</strong>)<br>
 </div>
 
