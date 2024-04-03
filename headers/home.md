@@ -7,15 +7,18 @@ permalink: /home/
   <div class="text-container">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <div>
-      <p style="font-size: 1.5rem;">Ph.D. Student</p>
+      <p style="font-size: 1.5rem;">MS. Student</p>
       <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
       <p style="font-size: 1.2rem;"><a href="https://www.cyphy.kaist.ac.kr/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
       <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
       <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
     </div>
     <div style="margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>
-      <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="color: rgba(0, 0, 0, 0.5); text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
+        <a href="https://drive.google.com/file/d/114aj8EQ9hJ99WaBP6leYeITvxVMq2E6F/view?usp=drive_link target="_blank" style="text-decoration: none; font-size: 1.2rem;">C.V.</a>
+
+
     </div>
   </div>
   <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun">
@@ -27,7 +30,7 @@ permalink: /home/
 <!-- About Me -->
 <p style="font-size: 1.5rem;"><strong>About me</strong></p>
 
-<p style="font-size: 1.2rem;">I am an Ph.D. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
+<p style="font-size: 1.2rem;">I am an MS. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research focuses on the novel applications of sensors in mobile environments. Specifically, I am keen on developing innovative solutions for security and safety issues by augmenting physics models and sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
 
 <!-- Add Line -->
 <hr> 
