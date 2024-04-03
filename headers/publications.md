@@ -1,9 +1,9 @@
 ---
 layout: base
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
-## Research 
+## Publications 
 
 <!-- Add Line -->
 <hr> 
