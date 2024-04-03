@@ -14,9 +14,9 @@ permalink: /home/
       <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
     </div>
     <div style="margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="text-decoration: none; margin-right: 10px; font-size: 1.2rem;">LinkedIn</a>
-      <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="text-decoration: none; font-size: 1.2rem;">Google Scholar</a>
-      <a href="https://drive.google.com/file/d/114aj8EQ9hJ99WaBP6leYeITvxVMq2E6F/view?usp=drive_link" target="_blank" style="text-decoration: none; font-size: 1.2rem;">  C.V.</a>
+      <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="text-decoration: none; margin-right: 20px; font-size: 1.2rem;">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="text-decoration: none; margin-right: 20px; font-size: 1.2rem;">Google Scholar</a>
+      <a href="https://drive.google.com/file/d/114aj8EQ9hJ99WaBP6leYeITvxVMq2E6F/view?usp=drive_link" target="_blank" style="text-decoration: none; font-size: 1.2rem;">C.V.</a>
     </div>
   </div>
   <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun">
