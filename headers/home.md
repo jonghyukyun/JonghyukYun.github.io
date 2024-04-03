@@ -9,7 +9,7 @@ permalink: /home/
     <div>
       <p style="font-size: 1.5rem;">Ph.D. Student</p>
       <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
-      <p style="font-size: 1.2rem;"><a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
+      <p style="font-size: 1.2rem;"><a href="www.cyphy.kaist.ac.kr/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
       <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
       <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
     </div>
