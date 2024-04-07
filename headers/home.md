@@ -38,7 +38,7 @@ permalink: /home/
 <ul style="font-size: 1.2rem;">
   <li>2024.4
     <ul>
-      <li>Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li>Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted and will appear at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
   </li>
