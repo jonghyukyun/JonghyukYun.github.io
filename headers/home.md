@@ -38,7 +38,7 @@ permalink: /home/
 <ul style="font-size: 1.2rem;">
   <li>2024.4
     <ul>
-      <li>Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li>Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
   </li>
@@ -55,12 +55,12 @@ permalink: /home/
   </li>
   <li>2023.2
     <ul>
-      <li>Our poster, "RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
+      <li>Our poster, "<i>RampScope</i>: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
     </ul>
   </li>
   <li>2022.12
     <ul>
-      <li>Our paper, "RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" is accepted and will appear at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
+      <li>Our paper, "<i>RampScope</i>: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" is accepted and will appear at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
     </ul>
   </li>
 </ul>
