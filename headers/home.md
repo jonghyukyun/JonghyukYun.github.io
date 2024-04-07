@@ -28,7 +28,7 @@ permalink: /home/
 <!-- About Me -->
 <p style="font-size: 1.5rem;"><strong>About me</strong></p>
 
-<p style="font-size: 1.2rem;">I am an MS. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research interest lies in the novel use of sensors within mobile environments to tackle challenges pertinent to public health safety. In particular, I am keen on developing new solutions for security and safety issues related to public health by augmenting physics models and integrating diverse sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
+<p style="font-size: 1.2rem;">I am an M.S. student at <a href="https://www.cyphy-lab.org/">Cyber-Physical Systems and Security (CyPhy) Lab</a>, supervised by <a href="https://www.junhan.org">Prof. Jun Han</a>. My research interest lies in the novel use of sensors within mobile environments to tackle challenges pertinent to public health safety. In particular, I am keen on developing new solutions for security and safety issues related to public health by augmenting physics models and integrating diverse sensing modalities. I received my B.S. degree from Electrical and Electronics Engineering at Konkuk University in 2022.</p>
 
 <!-- Add Line -->
 <hr> 
