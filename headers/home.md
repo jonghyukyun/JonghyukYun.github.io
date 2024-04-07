@@ -7,7 +7,7 @@ permalink: /home/
   <div class="text-container">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <div>
-      <p style="font-size: 1.5rem;">MS. Student</p>
+      <p style="font-size: 1.5rem;">M.S. Student</p>
       <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
       <p style="font-size: 1.2rem;"><a href="https://www.cyphy.kaist.ac.kr/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
       <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
