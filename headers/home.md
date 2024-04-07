@@ -36,12 +36,12 @@ permalink: /home/
 <!-- News -->
 <p style="font-size: 1.5rem;"><strong>News</strong></p>
 <ul style="font-size: 1.2rem;">
-  <!-- <li>2024.3
+  <li>2024.4
     <ul>
-      <li>Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is conditionally accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li>Our paper "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
-  </li> -->
+  </li>
   <li>2023.12
     <ul>
       <li>I won an excellence award in the system design and practice class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
