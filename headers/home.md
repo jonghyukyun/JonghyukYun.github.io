@@ -36,9 +36,9 @@ permalink: /home/
 <!-- News -->
 <p style="font-size: 1.5rem;"><strong>News</strong></p>
 <ul style="font-size: 1.2rem;">
-  <li>2024.4 <strong>(NEW)</strong>
+  <li>2024.4 
     <ul>
-      <li>Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accpeted and will appear at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li><strong><span style="color:red">(NEW)</span></strong> Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" is accepted and will appear at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
   </li>
