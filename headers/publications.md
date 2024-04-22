@@ -17,6 +17,7 @@ ACM International Conference on Mobile Systems, Applications, and Services
 <!-- ..................................................................................................................................... -->
 ### **[POSTER ABSTRACT: [MobiSys'24](https://www.sigmobile.org/mobisys/2024/)]** **Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone**  
 <u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han <span style="color: red;"><strong><em>(To Appear)</em></strong></span> 
+
 ACM International Conference on Mobile Systems, Applications, and Services  
 <!-- ..................................................................................................................................... -->
 <!-- Add Line -->
