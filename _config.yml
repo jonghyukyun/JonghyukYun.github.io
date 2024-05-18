@@ -25,6 +25,7 @@ plugins:
 header_pages:
   - headers/home.md
   - headers/publications.md
+  - headers/projects.md
   # - headers/cv.md
 
 # Set to `true` to show excerpts on the homepage.
