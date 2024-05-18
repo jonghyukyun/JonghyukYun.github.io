@@ -4,10 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-## *PowDew*: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone
+## Research Projects
 
-### [*PowDew*: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone](projects/powdew)
-![PowDew](../images/powdew/intro.png)
+<!-- Add Line -->
+<hr> 
+### [*PowDew*: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone](powdew/)
+<img src="../images/powdew/intro.png" alt="PowDew" style="width:300px;">
 
-### [*RampScope*: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone](projects/powdew)
-![PowDew](images/powdew/intro.png)
+<!-- Add Line -->
+<hr> 
+
+### [*RampScope*: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone](powdew/)
+![PowDew](../images/rampscope/intro.png)
+
