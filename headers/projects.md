@@ -4,15 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-## LiquidHash
+## *PowDew*
 
-![LiquidHash](path/to/your/image.png)
+![PowDew](path/to/your/image.png)
 
-**LiquidHash** aims to verify the authenticity of liquid food products in their original bottles using only smartphone cameras. We leverage observed bubble characteristics - size, shape, and speed - to infer liquid authenticity.
+*PowDew* aims to verify the authenticity of powdered food products only with a single smartphone. We utilize a smartphone in a novel way to capture the droplet motion (i.e., spreading and penetration).
 
 ### Abstract
 
-We are witnessing a surge in the reported cases of counterfeit fluid products in the market including olive oil, honey, and alcohol. Counterfeiters often adulterate these liquids by replacing a large portion of the authentic content with cheaper substitutes, like mixing olive oil with sunflower oil or alcohol with potentially lethal methanol. Exacerbating the problem, the counterfeits are packaged and sealed to factory standards, rendering it nearly impossible for consumers to differentiate them by sight. Likewise, various works (e.g., NIR) rely on chemical signatures that are hard to deploy in regular households or daily supermarket use. To overcome these limitations, we propose LiquidHash, a novel computer vision-based solution to detect counterfeits in unopened containers. Our key idea is to use the unique motion signature of naturally-occurring bubbles as video frames while observing the bottle. LiquidHash works by recording and analyzing the video of a manually flipped or shaken bottle from inside the bottle’s cap. We implemented LiquidHash and evaluated its accuracy by detecting counterfeit variants under varying conditions with a total of more than 500 minutes of video recording and observed an overall detection accuracy of up to 96%.
+The prevalence of counterfeit infant formulas worldwide poses serious threats to infant health and safety, a concern highlighted by the notorious Melamine Milk Scandal that affected hundreds of thousands of children.
+
+The primary challenge in detecting counterfeit formulas lies in their sophisticated adulteration and substitution techniques. Such detection is feasible only in laboratory settings, making it nearly impossible for average consumers to test the formula before feeding their infants. To address this problem, we propose *PowDew*, a novel and practical system for detecting counterfeit infant formula that utilizes only a commodity smartphone.
+
+*PowDew* operates by capturing and analyzing the interaction of a water droplet with the powdered formula, focusing on the droplet motion, namely its spreading and penetration. Our insight is that the droplet motions are governed by powder-specific properties such as wettability and porosity. *PowDew* analyzes the subtle differences in droplet motions and infers the formula's authenticity.
+
+To demonstrate *PowDew*'s effectiveness, we implement *PowDew* and conduct comprehensive real-world experiments under varying conditions with different brands of powdered infant formula and adulterants. Our experiments result in a total of 12,000 minutes of video recordings of the droplet motions on various infant formulas, including authentic and altered. Our experiments demonstrate that *PowDew* yields an overall detection accuracy of up to 96.1%.
 
 ### Demonstration
 
