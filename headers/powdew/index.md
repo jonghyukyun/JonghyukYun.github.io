@@ -1,6 +1,6 @@
 ---
 layout: base
-title: PowDew: Detecting Counterfeit Powdered Food Products
+title: 
 permalink: /projects/powdew/
 ---
 
