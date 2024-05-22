@@ -1,6 +1,6 @@
 ---
 layout: base
-title: PowDew
+title: PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone 
 permalink: /projects/powdew/
 ---
 

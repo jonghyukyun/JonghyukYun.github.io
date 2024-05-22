@@ -1,6 +1,6 @@
 ---
 layout: base
-title: RampScope
+title: RampScope: Ramp-Level Localization of Shared Mobility Devices using Sidewalk Ramps
 permalink: /projects/rampscope/
 ---
 
