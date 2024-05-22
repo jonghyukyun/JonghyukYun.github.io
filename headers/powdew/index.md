@@ -4,7 +4,7 @@ title: PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Sm
 permalink: /projects/powdew/
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px">
     <img src="../../images/powdew/intro.svg" alt="PowDew" style="width: 400px;">
 </div>
 
