@@ -15,8 +15,8 @@ The prevalence of counterfeit infant formulas worldwide poses serious threats to
 
 ### Publications
 
-- PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone, MobiSys'24
-- Poster: Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone, MobiSys'24 (Poster)
+- [MobiSys'24] PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone 
+- [MobiSys'24 Poster] Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone
 
 <!-- Add Line -->
 <hr>
