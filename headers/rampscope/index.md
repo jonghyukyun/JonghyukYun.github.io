@@ -4,7 +4,7 @@ title: RampScope: Ramp-Level Localization of Shared Mobility Devices using Sidew
 permalink: /projects/rampscope/
 ---
 
-![RampScope](../../images/rampscope/intro.png)
+![RampScope](../../images/rampscope/intro.svg)
 
 ### **Abstract**
 
