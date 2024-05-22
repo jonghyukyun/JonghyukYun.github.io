@@ -1,5 +1,6 @@
 ---
 layout: base
+title: RampScope
 permalink: /projects/rampscope/
 ---
 

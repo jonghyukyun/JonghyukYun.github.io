@@ -1,5 +1,6 @@
 ---
 layout: base
+title: PowDew
 permalink: /projects/powdew/
 ---
 
