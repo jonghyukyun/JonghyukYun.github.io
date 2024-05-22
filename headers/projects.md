@@ -14,7 +14,7 @@ permalink: /projects/
 </div>
 
 <hr> <!-- Add Line -->
-# [Ramp-Level Localization](/headers/rampscope/)
+# [Ramp-Level Localization of Shared Mobility Devices](/headers/rampscope/)
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/rampscope/intro.svg" alt="RampScope" width="200" style="margin-right: 20px;">
     <p>The low accuracy of GPS in urban areas causes significant real-world problems for shared mobility devices (SMDs), such as reduced usability for locating these devices. To address this issue, we propose RampScope, a ramp-level localization system that leverages the physical uniqueness of sidewalk ramps. RampScope utilizes a single gyroscope to capture the distinctive characteristics of sidewalk ramps and demonstrates its feasibility across three different types of mobility devices.</p>
