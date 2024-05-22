@@ -4,7 +4,7 @@ title: PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Sm
 permalink: /projects/powdew/
 ---
 
-![PowDew](../../images/powdew/intro.png)
+![PowDew](../../images/powdew/intro.svg)
 
 *PowDew* aims to verify the authenticity of powdered food products only with a single smartphone. We utilize a smartphone in a novel way to capture the droplet motion (i.e., spreading and penetration).
 
