@@ -4,7 +4,7 @@ title: PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Sm
 permalink: /projects/powdew/
 ---
 
-# PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone [MobiSys'24] 
+## PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone [MobiSys'24] 
 
 <div style="text-align: center; margin-bottom: 20px">
     <img src="../../images/powdew/intro.svg" alt="PowDew" style="width: 600px;">
