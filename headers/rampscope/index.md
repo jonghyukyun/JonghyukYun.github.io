@@ -5,7 +5,7 @@ permalink: /projects/rampscope/
 ---
 
 <div style="text-align:center;">
-    <img src="../images/rampscope/intro.svg" alt="RampScope" width="200" style="margin: 0 auto;" loading="lazy">
+    <img src="../../images/rampscope/intro.svg", width="200" style="margin: 0 auto;" loading="lazy">
 </div>
 
 ### **Abstract**
