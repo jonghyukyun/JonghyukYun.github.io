@@ -6,6 +6,7 @@ permalink: /projects/rampscope/
 
 
 <div style="text-align: center; margin-bottom: 20px;">
+    <h2 style = "font-size: 30px">PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone</h2>
     <img src="../../images/rampscope/intro.svg" alt="RampScope" style="width: 600px;">
 </div>
 
