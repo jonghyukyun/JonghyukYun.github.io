@@ -36,6 +36,12 @@ permalink: /home/
 <!-- News -->
 <p style="font-size: 1.5rem;"><strong>News</strong></p>
 <ul style="font-size: 1.2rem;">
+  <li>2024.6
+    <ul>
+      <li><strong><span style="color:red">(NEW)</span></strong> Our paper won the <span style="color:red">Best Paper Award</span></strong> at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      </li>
+    </ul>
+  </li>
   <li>2024.4 
     <ul>
       <li><strong><span style="color:red">(NEW)</span></strong> Our poster "Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone" is accepted and will appear at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
