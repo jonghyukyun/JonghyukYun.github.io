@@ -13,11 +13,13 @@ permalink: /publications/
 <u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han <span style="color: red;">
 
 ACM International Conference on Mobile Systems, Applications, and Services  
+<span style="color: red;"><strong><em>BEST POSTER AWARD</em></strong></span> 
+
 [ [paper](https://dl.acm.org/doi/10.1145/3643832.3661877) / [slides](https://drive.google.com/file/d/1NO5tmbwEX3GliSWQcCYWLwNuodsS2zev/view?usp=drive_link) ] 
 <!-- ..................................................................................................................................... -->
 <!-- ..................................................................................................................................... -->
 ### **[POSTER ABSTRACT: [MobiSys'24](https://www.sigmobile.org/mobisys/2024/)]** **Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone**  
-<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han <span style="color: red;"><strong><em>(To Appear)</em></strong></span> 
+<u>Jonghyuk Yun</u>, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han 
 
 ACM International Conference on Mobile Systems, Applications, and Services  
 
