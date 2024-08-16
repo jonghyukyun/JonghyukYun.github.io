@@ -38,7 +38,7 @@ permalink: /home/
 <ul style="font-size: 1.2rem;">
   <li>2024.6
     <ul>
-      <li><strong><span style="color:red">(NEW)</span></strong> Our paper won the <strong><span style="color:red">Best Paper Award</span></strong> at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li><strong><span style="color:red">(NEW)</span></strong> Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" won the <strong><span style="color:red">Best Paper Award</span></strong> at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
   </li>
