@@ -7,11 +7,11 @@ permalink: /home/
   <div class="text-container">
     <h2 style="font-size: 2rem;">Jonghyuk Yun</h2>
     <div>
-      <p style="font-size: 1.5rem;">M.S. Student</p>
-      <p style="font-size: 1.5rem;">jhyoun96@yonsei.ac.kr</p>
+      <p style="font-size: 1.5rem;">Ph.D. Student</p>
+      <p style="font-size: 1.5rem;">jonghyuk.yun@kaist.ac.kr</p>
       <p style="font-size: 1.2rem;"><a href="https://www.cyphy.kaist.ac.kr/">Cyber-Physical Systems and Security (CyPhy) Lab</a></p>
-      <p style="font-size: 1.2rem;"><a href="https://ee.yonsei.ac.kr/ee/index.do">School of Electrical and Electronic Engineering</a></p>
-      <p style="font-size: 1.2rem;"><a href="https://yonsei.ac.kr/">Yonsei University, Seoul</a></p>
+      <p style="font-size: 1.2rem;"><a href="https://cs.kaist.ac.kr/">School of Computing</a></p>
+      <p style="font-size: 1.2rem;"><a href="https://kaist.ac.kr/kr/">KAIST, Daejeon</a></p>
     </div>
     <div style="margin-top: 20px;">
       <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="text-decoration: none; margin-right: 20px; font-size: 1.2rem;">LinkedIn</a>
