@@ -16,7 +16,7 @@ permalink: /home/
     <div style="margin-top: 20px;">
       <a href="https://www.linkedin.com/in/jonghyuk-yun/" target="_blank" style="text-decoration: none; margin-right: 20px; font-size: 1.2rem;">LinkedIn</a>
       <a href="https://scholar.google.com/citations?user=kxL5C0EAAAAJ&hl=ko" target="_blank" style="text-decoration: none; margin-right: 20px; font-size: 1.2rem;">Google Scholar</a>
-      <a href="https://drive.google.com/file/d/1r1aNk5IHyUEfL73_4yLgwgJ_CAhI1KT0/view?usp=sharing" target="_blank" style="text-decoration: none; font-size: 1.2rem;">C.V.</a>
+      <a href="https://drive.google.com/file/d/1C_rXQkROTQj_1lglNde4ivFKlUcDAWi2/view?usp=sharing" target="_blank" style="text-decoration: none; font-size: 1.2rem;">C.V.</a>
     </div>
   </div>
   <img class="profile-image" src="/assets/current.png" alt="Jonghyuk Yun">
