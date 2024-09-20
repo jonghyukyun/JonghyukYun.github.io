@@ -23,7 +23,8 @@ navbar-links:
   About Me: "md/aboutme"
   Publications: "md/publications"
   Projects: "md/projects"
-  CV: "md/cv"
+  CV: "https://drive.google.com/file/d/1C_rXQkROTQj_1lglNde4ivFKlUcDAWi2/view?usp=drive_link"
+  # CV: "md/cv"
 
 ################
 # --- Logo --- #
