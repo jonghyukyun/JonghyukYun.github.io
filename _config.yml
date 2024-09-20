@@ -52,30 +52,8 @@ social-network-links:
   email: "jonghyuk.yun@kaist.ac.kr"
   rss: False  # remove this line if you don't want to show an RSS link at the bottom
   google-scholar: "https://scholar.google.com/citations?user=ZBjTMMcAAAAJ&hl=ko"
-  linkedin: "www.linkedin.com/in/jonghyuk-yun"
-
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+  linkedin: "https://www.linkedin.com/in/jonghyuk-yun"
+  # ORCID: your ORCID ID
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
