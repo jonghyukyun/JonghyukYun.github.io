@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Projects
-permalink: /projects/
 ---
 
 # Research Projects
