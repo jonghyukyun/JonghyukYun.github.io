@@ -1,0 +1,12 @@
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.text-danger {
+    color: red;
+}
+
+ul {
+    margin-bottom: 20px;
+}
