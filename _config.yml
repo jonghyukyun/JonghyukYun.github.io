@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jonghyuk.yun@kaist.ac.kr"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: False  # remove this line if you don't want to show an RSS link at the bottom
   google-scholar: "https://scholar.google.com/citations?user=ZBjTMMcAAAAJ&hl=ko"
   linkedin: "www.linkedin.com/in/jonghyuk-yun"
 
