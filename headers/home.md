@@ -38,7 +38,7 @@ permalink: /home/
 <ul style="font-size: 1.2rem;">
   <li>2024.6
     <ul>
-      <li><strong><span style="color:red">(NEW)</span></strong> Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" won the <strong><span style="color:red">Best Paper Award</span></strong> at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
+      <li><strong><span style="color:red">(NEW)</span></strong> Our paper "<i>PowDew</i>: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone" won the <strong><span style="color:red">Best Paper Award 🏆 </span></strong> at <a href="https://www.sigmobile.org/mobisys/2024/">ACM MobiSys'24!</a>
       </li>
     </ul>
   </li>
@@ -52,7 +52,7 @@ permalink: /home/
   </li>
   <li>2023.12
     <ul>
-      <li>I won an excellence award in the system design and practice class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
+      <li>I won an excellence award 🏆 in the system design and practice class held by <a href="http://asrc.yonsei.ac.kr/index.php">Automotive System IC Fusion Human Resource Research Center (ASRC)</a> at Yonsei University.
       </li>
     </ul>
   </li>
@@ -63,7 +63,7 @@ permalink: /home/
   </li>
   <li>2023.2
     <ul>
-      <li>Our poster, "<i>RampScope</i>: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
+      <li>Our poster, "<i>RampScope</i>: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps" won the Best Poster Award 🏆 at ACM HotMobile'23. This poster accompanies our paper also presented at <a href="https://www.sigmobile.org/hotmobile/2023/">ACM HotMobile'23</a>.</li>
     </ul>
   </li>
   <li>2022.12
