@@ -53,7 +53,7 @@ social-network-links:
   email: "jonghyuk.yun@kaist.ac.kr"
   rss: False  # remove this line if you don't want to show an RSS link at the bottom
   google-scholar: "https://scholar.google.com/citations?user=ZBjTMMcAAAAJ&hl=ko"
-  linkedin: "https://www.linkedin.com/in/jonghyuk-yun/"
+  linkedin: "jonghyuk-yun"
   # ORCID: your ORCID ID
 
 # If you want your website to generate an RSS feed, provide a description
