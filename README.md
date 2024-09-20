@@ -1,374 +1,180 @@
-<div align="center">
-  <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
-  Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
-  your browser to the Git tag corresponding to your version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md.<br/>
-  Running <code>bundle show minima</code> will provide you with the local path to your current theme version.</em></p>
-  <img src="/readme_banner.svg"/>
-  <p>It's Jekyll's default (and first) theme. It's what you get when you run <code>jekyll new</code>.</p>
-  <p><a href="https://jekyll.github.io/minima/">Theme preview</a></p>
-  <p><img src="/screenshot.png"/></p>
-</div>
+[![CI](https://img.shields.io/badge/Github%20Pages-passing-gold.svg?logo=github)](ci)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.9-green.svg)](https://jekyllrb.com/)
+[![Jekyll](https://img.shields.io/badge/gem%20version-3.2.33-blue.svg)](gem)
+<a href="https://jekyll-themes.com/byanko55/jekyll-professional-resume">
+  <img
+    src="https://img.shields.io/badge/featured%20on-JT-red.svg"
+    height="20"
+    alt="Jekyll Themes Shield"
+  />
+</a>
 
-## Installation
+# 🎓 - Jekyll Professional Resume
 
-Add this line to your Jekyll site's Gemfile:
+A simple and modern resume template, best fit for either **Academic CV (Curriculum Vitae)** or **Engineer Portfolio**.
 
-```ruby
-gem "minima"
-```
+Live demo is available [here](https://byanko55.github.io/resume-demo/).
 
-And then execute:
+![demo](https://i.ibb.co/HYshYc0/231232121.webp)
 
-    $ bundle
+## Setup
+Fork [this repository](https://github.com/byanko55/jekyll-professional-resume) or download the [source](https://github.com/byanko55/jekyll-professional-resume/releases) as a zip.
 
+**Rename your repository as USERNAME.github.io or anything else.**
 
-## Contents At-A-Glance
+If you choose the former, then your URL will be https://USERNAME.github.io/.
 
-Minima has been scaffolded by the `jekyll new-theme` command and therefore has all the necessary files and directories to have a new Jekyll site up and running with zero-configuration.
+Otherwise (let's say `myresume`), you need to edit the '*baseurl*' parameter in `_config.yml`. In this case, the resume page will be served to "https://USERNAME.github.io/myresume/".
 
-### Layouts
-
-Refers to files within the `_layouts` directory, that define the markup for your theme.
-
-  - `base.html` &mdash; The base layout that lays the foundation for subsequent layouts. The derived layouts inject their
-    contents into this file at the line that says ` {{ content }} ` and are linked to this file via
-    [FrontMatter](https://jekyllrb.com/docs/frontmatter/) declaration `layout: base`.
-  - `home.html` &mdash; The layout for your landing-page / home-page / index-page. [[More Info.](#home-layout)]
-  - `page.html` &mdash; The layout for your documents that contain FrontMatter, but are not posts.
-  - `post.html` &mdash; The layout for your posts.
-
-#### Base Layout
-
-From Minima v3 onwards, the base layout is named **`base.html`** instead of `default.html` to avoid confusing new users into
-assuming that name holds special status.
-
-Users migrating from older versions with customized `_layouts/default.html` are advised to rename their copy to
-`_layouts/base.html`. Migrating users with additional customized layouts may either update front matter references to former
-`default.html` layout or create a new `default.html` layout referencing the current `base.html`, whichever route being the
-easiest:
-
-```
----
-# new `_layouts/default.html` for backwards-compatibility when multiple
-# layouts have been customized.
-
-layout: base
----
-
-{{ content }}
-```
-
-#### Home Layout
-
-`home.html` is a flexible HTML layout for the site's landing-page / home-page / index-page. <br/>
-
-##### *Main Heading and Content-injection*
-
-From Minima v2.2 onwards, the *home* layout will inject all content from your `index.md` / `index.html` **before** the **`Posts`** heading. This will allow you to include non-posts related content to be published on the landing page under a dedicated heading. *We recommended that you title this section with a Heading2 (`##`)*.
-
-Usually the `site.title` itself would suffice as the implicit 'main-title' for a landing-page. But, if your landing-page would like a heading to be explicitly displayed, then simply define a `title` variable in the document's front matter and it will be rendered with an `<h1>` tag.
-
-##### *Post Listing*
-
-This section is optional from Minima v2.2 onwards.<br/>
-It will be automatically included only when your site contains one or more valid posts or drafts (if the site is configured to `show_drafts`).
-
-The title for this section is `Posts` by default and rendered with an `<h2>` tag. You can customize this heading by defining a `list_title` variable in the document's front matter.
-
-
-### Includes
-
-Refers to snippets of code within the `_includes` directory that can be inserted in multiple layouts (and another include-file as well) within the same theme-gem.
-
-  - `disqus_comments.html` &mdash; Code to markup disqus comment box.
-  - `footer.html` &mdash; Defines the site's footer section.
-  - `google-analytics.html` &mdash; Inserts Google Analytics module (active only in production environment).
-  - `head.html` &mdash; Code-block that defines the `<head></head>` in *default* layout.
-  - `custom-head.html` &mdash; Placeholder to allow users to add more metadata to `<head />`.
-  - `header.html` &mdash; Defines the site's main header section. By default, pages with a defined `title` attribute will have links displayed here.
-  - `social.html` &mdash; Renders social-media icons based on the `minima:social_links` data in the config file.
-  - `social-item.html` &mdash; Template to render individual list-item containing graphic link to configured social-profile.
-  - `social-links/*.svg` &mdash; SVG markup components of supported social-icons.
-
-
-### Sass
-
-Refers to `.scss` files within the `_sass` directory that define the theme's styles.
-
-  - `minima/skins/classic.scss` &mdash; The "classic" skin of the theme. *Used by default.*
-  - `minima/initialize.scss` &mdash; A component that defines the theme's *skin-agnostic* variable defaults and sass partials.
-    It imports the following components (in the following order):
-    - `minima/custom-variables.scss` &mdash; A hook that allows overriding variable defaults and mixins. (*Note: Cannot override styles*)
-    - `minima/_base.scss` &mdash; Sass partial for resets and defines base styles for various HTML elements.
-    - `minima/_layout.scss` &mdash; Sass partial that defines the visual style for various layouts.
-    - `minima/custom-styles.scss` &mdash; A hook that allows overriding styles defined above. (*Note: Cannot override variables*)
-
-Refer the [skins](#skins) section for more details.
-
-
-### Assets
-
-Refers to various asset files within the `assets` directory.
-
-  - `assets/css/style.scss` &mdash; Imports sass files from within the `_sass` directory and gets processed into the theme's
-    stylesheet: `assets/css/styles.css`.
-  - `assets/minima-social-icons.html` &mdash; Imports enabled social-media icon graphic and gets processed into a composite SVG file.
-    Refer [section on social networks](#social-networks) for its usage.
-
-
-### Plugins
-
-Minima comes with [`jekyll-seo-tag`](https://github.com/jekyll/jekyll-seo-tag) plugin preinstalled to make sure your website gets the most useful meta tags. See [usage](https://github.com/jekyll/jekyll-seo-tag#usage) to know how to set it up.
-
-
-## Usage
-
-Have the following line in your config file:
-
-```yaml
-theme: minima
+```yml
+# set baseurl as "/<repo-name>". ex) baseurl: /myresume
+baseurl: myresume/
 ```
 
 
-### Customizing templates
+### Update Profile
+In `_config.yml`, you can modify personal info such as your *photo, phone number, email*, and other social accounts. 
 
-To override the default structure and style of minima, simply create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file.
-e.g., to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path, create an `_includes` directory, copy `_includes/head.html` from minima gem folder to `<yoursite>/_includes` and start editing that file.
+```yml
+profile_img: assets/img/profile.webp
+icon_img: assets/img/icon.webp
 
-The site's default CSS has now moved to a new place within the gem itself, [`assets/css/style.scss`](assets/css/style.scss).
+name: "Your Name Here"
+job: "〈Your Job Here〉"
 
-In Minima 3.0, if you only need to customize the colors of the theme, refer to the subsequent section on skins. To have your
-*CSS overrides* in sync with upstream changes released in future versions, you can collect all your overrides for the Sass
-variables and mixins inside a sass file placed at `_sass/minima/custom-variables.scss` and all other overrides inside a sass file
-placed at path `_sass/minima/custom-styles.scss`.
-
-You need not maintain entire partial(s) at the site's source just to override a few styles. However, your stylesheet's primary
-source (`assets/css/style.scss`) should contain the following:
-
-  - Front matter dashes at the very beginning (can be empty).
-  - Directive to import a skin.
-  - Directive to import the base styles (automatically loads overrides when available).
-
-Therefore, your `assets/css/style.scss` should contain the following at minimum:
-
-```sass
----
----
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-```
-
-#### Skins
-
-Minima 3.0 supports defining and switching between multiple color-palettes (or *skins*).
+phone_number: 012-345-6789
+address: City, Country
+email: email@example.com
+linkedin_username: linkedin
+github_username: github
+...
 
 ```
-.
-├── minima.scss
-└── minima
-    └── _syntax-highlighting.scss
-```
 
+### Create a Topic
 
-A skin is a Sass file placed in the directory `_sass/minima/skins` and it defines the variable defaults related to the "color"
-aspect of the theme. It also embeds the Sass rules related to syntax-highlighting since that is primarily related to color and
-has to be adjusted in harmony with the current skin.
-
-The default color palette for Minima is defined within `_sass/minima/skins/classic.scss`. To switch to another available skin,
-simply declare it in the site's config file. For example, to activate `_sass/minima/skins/dark.scss` as the skin, the setting
-would be:
-
-```yaml
-minima:
-  skin: dark
-```
-
-As part of the migration to support skins, some existing Sass variables have been retired and some **have been redefined** as
-summarized in the following table:
-
-Minima 2.0      | Minima 3.0
---------------- | ----------
-`$brand-color`  | `$link-base-color`
-`$grey-*`       | `$brand-*`
-`$orange-color` | *has been removed*
-
-##### Available skins
-
-Skin setting    | Description
---------------- | -----------
-classic         | Default, light color scheme.
-dark            | Dark variant of the classic skin.
-auto            | *Adaptive skin* based on the default classic and dark skins.
-solarized       | *Adaptive skin* for [solarized](https://github.com/solarized) color scheme skins.
-solarized-light | Light variant of solarized color scheme.
-solarized-dark  | Dark variant of solarized color scheme.
-
-*:bulb: Adaptive skins switch between the "light" and "dark" variants based on the user's operating system setting or browser setting
-(via CSS Media Query [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)).*
-
-### Customize navigation links
-
-This allows you to set which pages you want to appear in the navigation area and configure order of the links.
-
-For instance, to only link to the `about` and the `portfolio` page, add the following to your `_config.yml`:
-
-```yaml
-header_pages:
-  - about.md
-  - portfolio.md
-```
-
-
-### Change default date format
-
-You can change the default date format by specifying `site.minima.date_format`
-in `_config.yml`.
+All resume information should be placed in a directory named '`_data`'. You may need to manage personal data in separate groups, making a *Yaml* (`.yml`) file for each subject.
 
 ```
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+._data
+├── SUBJECT1.yml
+├── SUBJECT2.yml
+├── SUBJECT3.yml
+...
+
 ```
 
+For instance,
 
-### Extending the `<head />`
-
-You can *add* custom metadata to the `<head />` of your layouts by creating a file `_includes/custom-head.html` in your source directory. For example, to add favicons:
-
-1. Head over to [https://realfavicongenerator.net/](https://realfavicongenerator.net/) to add your own favicons.
-2. [Customize](#customization) default `_includes/custom-head.html` in your source directory and insert the given code snippet.
-
-
-### Enabling comments (via Disqus)
-
-Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
-
-:warning: `url`, e.g. `https://example.com`, must be set in you config file for Disqus to work.
-
-To enable it, after setting the url field, you also need to add the following lines to your Jekyll site:
-
-```yaml
-  disqus:
-    shortname: my_disqus_shortname
+```
+._data
+├── Awards.yml
+├── Education.yml
+├── Experience.yml
+├── Languages.yml
+├── Projects.yml
+├── Publications.yml
+├── Skills.yml
 ```
 
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/installation/whats-a-shortname).
+### Fill your infomation
 
-Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
+Open the *Yaml* file which you created right before. Add the following materials inside of the file.
 
-If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
+* **subject**: title of a subject
+* **listing-order**: determines the display order (from top to bottom)
+* **icon**: representative icon to be displayed (pick out from `resources/svgs`)
+* **contents**: The details of each item, listed in `KEY`-`VALUE` pairs 
 
-### Author Metadata
-
-From `Minima-3.0` onwards, `site.author` is expected to be a mapping of attributes instead of a simple scalar value:
-
-```yaml
-author:
-  name: John Smith
-  email: "john.smith@foobar.com"
+```yml
+subject:
+listing-order:
+icon:
+contents:
+  - title: ITEM 1
+    KEY: VALUE
+    KEY: VALUE
+    ...
+  - title: ITEM 2
+    KEY: VALUE
+    ...
 ```
 
-To migrate existing metadata, update your config file and any reference to the object in your layouts and includes as summarized below:
+For a better understanding, see the example below.
 
-Minima 2.x    | Minima 3.0
-------------- | -------------------
-`site.author` | `site.author.name`
-`site.email`  | `site.author.email`
+```yml
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Stanfort University, MA in Computer Science
+    description:
+      - Development of algorithms for tracking the facial expressions
+      - Optimizing parameter efficient fine tuning for fairness
+    grade: "**GPA**: `4.1/4.3`"
+    date: Mar. 2014 - Feb. 2016
+  ...
 
-
-### Social networks
-
-You can add links to the accounts you have on other sites, with respective icon as an SVG graphic, via the config file.
-From `Minima-3.0` onwards, the social media data is sourced from config key `minima.social_links`. It is a list of key-value pairs, each entry
-corresponding to a link rendered in the footer. For example, to render links to Jekyll GitHub repository and twitter account, one should have:
-
-```yaml
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 ```
 
-Apart from the necessary keys illustrated above, `title` may also be defined to render a custom link-title. By default, the title is the same
-as `platform`. The `platform` key corresponds to the SVG id of the sprite in the composite file at URL `/assets/minima-social-icons.svg`.
+The rendered output looks like this:
 
-The theme ships with an icon for `rss` and icons of select social-media platforms:
+![example1](https://i.ibb.co/9TGKPrv/123312.webp)
 
-- `devto`
-- `dribbble`
-- `facebook`
-- `flickr`
-- `github`
-- `google_scholar`
-- `instagram`
-- `keybase`
-- `linkedin`
-- `microdotblog`
-- `pinterest`
-- `stackoverflow`
-- `telegram`
-- `twitter`
-- `youtube`
+See also the advanced example. 
 
-To render a link to a platform not listed above, one should first create a file at path `_includes/social-icons/<PLATFORM>.svg` comprised of
-graphic markup **without the top-level `<svg></svg>`**. The icon is expected to be centered within a viewbox of `"0 0 16 16"`. Then, make an
-entry under key `minima.social_links`.
+> **Important**: You can use markdown syntax to **apply text bold, italic, and underlined** effects or **create HTML elements** (including image, links, span, etc.)!
 
-For example, to render a link to an account of user `john.doe` at platform `deviantart.com`, the steps to follow would be:
-  - Get DeviantArt logo in SVG format.
-  - Using a text-editor, open the downloaded file to inspect if the `viewBox` attribute is defined on the `<svg>` element and is set
-    as `"0 0 16 16" (or similar "square" dimension)`.
-  - If the `viewBox` attribute is non-square or undefined, the graphic *may optionally need* to be edited in a vector graphic editor such as
-    *Inkscape* or *Adobe Illustrator* for properly aligned render on page.
-  - Edit the SVG file in text-editor to delete everything **except** what is contained between `<svg></svg>` and save it into the Jekyll
-    project at path `_includes/social-icons/deviantart.svg`.
-  - Finally, edit the Jekyll config file to enable loading of new icon graphic with:
-    ```yaml
-    minima:
-      social_links:
-        - platform: deviantart  # same as SVG filename.
-          user_url: "https://www.deviantart.com/john.doe"  # URL of profile page.
-          title:  My profile at DeviantArt.com  # Optional. Text displayed on hovering over link.
-    ```
+```yml
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+    description: 
+      - Chatbot developed based on a large language model
+      - Designed Generative algorithm to generate novel human-like content
+      - "Technology Used: Rust, Typescript, Python, Ruby"
+    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  ...
 
-**Notes:**
-- The list of social-links is declarative. List-items are rendered in the order declared in the downstream configuration file and not merged
-  with entries from upstream config file(s) such as theme-config-file or prior local config files.
-- The `user_url` is rendered as given without handling any special characters within.
-
-
-### Enabling Google Analytics
-
-To enable Google Analytics, add the following lines to your Jekyll site:
-
-```yaml
-  google_analytics: UA-NNNNNNNN-N
 ```
 
-Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
+![example](https://i.ibb.co/tCNCyYr/231321.webp)
 
-### Enabling Excerpts on the Home Page
+## Build from Gem package
 
-To display post-excerpts on the Home Page, simply add the following to your `_config.yml`:
+If you don't like the above setup option (clone/fork the original github repo), then you can also build your site by installing the gem package remotely. Read this altenative [guide](https://github.com/byanko55/jekyll-professional-resume/blob/master/docs/Installation%20from%20package.md).
 
-```yaml
-show_excerpts: true
+## Customizing
+
+### Change Color Palette
+Wanna pick another color? You can edit the base theme palette in `assets/css/style.scss`.
+```css
+:root {
+    --color-background: #fffdfb;
+    --theme1-light: #F6D8CB;
+    --theme1-medium: #D0A694;
+    --theme1-dim: #B07D67;
+    --theme1-dark: #8A5843;
+    --theme2-light: #B1B1C2;
+    ...
+
+}
 ```
 
+### Site Shortcut Icon
+To replace the shortcut icon displayed on browser tab, modify *icon_img* field in `_config.yml`.
+![shortcut](https://i.ibb.co/g9cYjRj/213213214.webp)
 
-## Contributing
+```yml
+icon_img: "<IMAGE URL/PATH>"
+```
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `script/bootstrap`.
-
-To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
+## Contribution
+If you would like to report a bug or request a new feature, please open [an issue](https://github.com/byanko55/jekyll-professional-resume/issues) We are open to any kind of feedback or collaboration.
+<br></br>
 
 ## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+© 2024 *Yankos*. This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).
