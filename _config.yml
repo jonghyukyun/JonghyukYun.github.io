@@ -230,11 +230,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+# timezone: "America/Toronto"
+# markdown: kramdown
+# highlighter: rouge
+# permalink: /:year-:month-:day-:title/
+# paginate: 5
 
 kramdown:
   input: GFM
@@ -247,8 +247,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: False  # add comments to all blog posts
+      social-share: False # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
