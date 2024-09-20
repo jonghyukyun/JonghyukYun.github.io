@@ -22,6 +22,8 @@ author: Jonghyuk Yun
 navbar-links:
   About Me: "md/aboutme"
   Publications: "md/publications"
+  Projects: "md/projects"
+  CV: "md/cv"
 
 ################
 # --- Logo --- #
