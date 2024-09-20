@@ -1,7 +1,6 @@
 ---
-layout: base
+layout: page
 title: RampScope: Ramp-Level Localization of Shared Mobility Devices using Sidewalk Ramps
-permalink: /projects/rampscope/
 ---
 
 

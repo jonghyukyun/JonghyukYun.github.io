@@ -1,7 +1,6 @@
 ---
-layout: base
+layout: page
 title: PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone 
-permalink: /projects/powdew/
 ---
 
 <div style="text-align: center; margin-bottom: 20px">
