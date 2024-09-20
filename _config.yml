@@ -49,8 +49,8 @@ round-avatar: true
 social-network-links:
   email: "jonghyuk.yun@kaist.ac.kr"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  google-scholar: your google scholar
-  linkedin: daattali
+  google-scholar: "https://scholar.google.com/citations?user=ZBjTMMcAAAAJ&hl=ko"
+  linkedin: "www.linkedin.com/in/jonghyuk-yun"
 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
