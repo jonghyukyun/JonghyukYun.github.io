@@ -148,3 +148,21 @@
     });
   });
 })();
+
+// Overwrite stale cached redirects (e.g. an old permanent 301 from this domain to
+// the former Google Sites page) by re-fetching the home URL from the network.
+// A fresh 200 response replaces the cached redirect in the browser's HTTP cache.
+(() => {
+  if (location.hostname !== 'jonghyukyun.com') return;
+  try {
+    if (localStorage.getItem('redirect-cache-busted') === '1') return;
+  } catch (e) {}
+  const urls = ['/', '/home'];
+  Promise.all(urls.map((u) => fetch(u, { cache: 'reload', credentials: 'same-origin' }).catch(() => null)))
+    .then(() => {
+      try { localStorage.setItem('redirect-cache-busted', '1'); } catch (e) {}
+      if (/[?&]from=old\b/.test(location.search)) {
+        history.replaceState(null, '', location.pathname + location.hash);
+      }
+    });
+})();
