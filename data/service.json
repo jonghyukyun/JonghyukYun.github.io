@@ -1,0 +1,89 @@
+[
+  {
+    "category": "Organizing Committee",
+    "items": [
+      {
+        "name": "ACM MobiSys 2027",
+        "role": "Web Co-chair",
+        "url": "https://www.sigmobile.org/mobisys/2027/organizing_committee/",
+        "year": "2027"
+      }
+    ]
+  },
+  {
+    "category": "Reviewer",
+    "items": [
+      {
+        "name": "IEEE Transactions on Mobile Computing (TMC)",
+        "role": "",
+        "url": "",
+        "year": "2025 – 2026"
+      }
+    ]
+  },
+  {
+    "category": "External Reviewer",
+    "items": [
+      {
+        "name": "ACM MobiCom",
+        "role": "",
+        "url": "",
+        "year": "2024 – 2026"
+      },
+      {
+        "name": "ACM MobiSys",
+        "role": "",
+        "url": "",
+        "year": "2023 – 2026"
+      },
+      {
+        "name": "ACM SenSys",
+        "role": "",
+        "url": "",
+        "year": "2022 – 2026"
+      },
+      {
+        "name": "ACM UIST",
+        "role": "",
+        "url": "",
+        "year": "2026"
+      },
+      {
+        "name": "USENIX Security",
+        "role": "",
+        "url": "",
+        "year": "2023, 2026"
+      },
+      {
+        "name": "ACM CCS",
+        "role": "",
+        "url": "",
+        "year": "2025"
+      },
+      {
+        "name": "IEEE S&P (Oakland)",
+        "role": "",
+        "url": "",
+        "year": "2023, 2024"
+      },
+      {
+        "name": "ACM/IEEE IPSN",
+        "role": "",
+        "url": "",
+        "year": "2024"
+      },
+      {
+        "name": "IEEE IoTDI",
+        "role": "",
+        "url": "",
+        "year": "2023"
+      },
+      {
+        "name": "ACM HotMobile",
+        "role": "",
+        "url": "",
+        "year": "2022"
+      }
+    ]
+  }
+]

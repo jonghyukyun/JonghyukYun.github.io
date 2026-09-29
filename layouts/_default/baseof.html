@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} · Jonghyuk Yun</title>
+  <meta name="description" content="Jonghyuk Yun — Ph.D. student at KAIST. Research in mobile sensing, cyber-physical security, and public safety.">
+  <meta name="theme-color" content="#173f85">
+  <link rel="icon" type="image/svg+xml" href="{{ "/favicon.svg" | relURL }}">
+  <link rel="icon" type="image/png" href="{{ "/favicon.png" | relURL }}">
+  <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | relURL }}">
+  <link rel="stylesheet" href="{{ "/assets/css/research.css" | relURL }}?v={{ now.Unix }}">
+  <script src="{{ "/assets/js/research.js" | relURL }}?v={{ now.Unix }}" defer></script>
+</head>
+<body class="page-{{ .Params.section }}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="header"><a class="brand" href="{{ "/" | relURL }}"><span class="monogram">JY<span>·</span></span> Jonghyuk Yun</a>
+<nav aria-label="Main navigation"><a href="{{ "/" | relURL }}" {{ if eq .Params.section "about" }}aria-current="page"{{ end }}>About</a><a href="{{ "/md/publications" | relURL }}" {{ if eq .Params.section "publications" }}aria-current="page"{{ end }}>Publications</a><a href="{{ "/md/honors" | relURL }}" {{ if eq .Params.section "honors" }}aria-current="page"{{ end }}>Honors</a><a class="cv" href="https://drive.google.com/file/d/1zH-TCcLYd36ImTTM-6KOKzdAtttGYQeM/view?usp=drive_link" target="_blank" rel="noopener">CV <span aria-hidden="true">↗</span></a></nav></header>
+<main id="main">{{ block "main" . }}{{ end }}</main>
+<section class="contact-banner"><div class="eyebrow">CONTACT</div><a href="mailto:jonghyuk.yun@kaist.ac.kr">jonghyuk.yun@kaist.ac.kr<span>↗</span></a></section><footer><a class="brand" href="{{ "/" | relURL }}">Jonghyuk Yun<span class="blue">.</span></a><span>Mobile sensing. Real-world impact.</span><a href="mailto:jonghyuk.yun@kaist.ac.kr">Get in touch ↗</a></footer>
+</body></html>

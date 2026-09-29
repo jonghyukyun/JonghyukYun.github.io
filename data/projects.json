@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "scatterpin",
+    "name": "ScatterPIN",
+    "description": "Inferring PINs entered on touch keypad door locks through an RF backscatter side channel.",
+    "image": "/images/publications/scatterpin.png",
+    "venue": "IEEE S&P '27",
+    "venue_url": "https://sp2027.ieee-security.org/",
+    "awards": [],
+    "links": [],
+    "highlight_venue": true,
+    "note": "",
+    "detail": ""
+  },
+  {
+    "slug": "fold2unfold",
+    "name": "Fold2Unfold",
+    "description": "Protecting screen privacy on foldable smartphones using inter-screen reflection. The screen content is decomposed and projected so the user can read it while nearby observers see obfuscated content.",
+    "image": "/images/publications/fold2unfold.png",
+    "venue": "ACM UIST'26",
+    "venue_url": "https://uist.acm.org/2026/",
+    "awards": [],
+    "links": [
+      {
+        "label": "video",
+        "url": "https://www.youtube.com/watch?v=hOeVoINVmEY"
+      }
+    ],
+    "highlight_venue": true,
+    "note": "",
+    "detail": ""
+  },
+  {
+    "slug": "sweepled",
+    "name": "SweepLED",
+    "description": "Detecting concealed cameras using LED illumination sweeps. The system uses the response to changing illumination to identify cameras hidden in everyday objects.",
+    "image": "/images/publications/sweepled.png",
+    "venue": "ACM MobiSys'26",
+    "venue_url": "https://www.sigmobile.org/mobisys/2026/",
+    "awards": [],
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3745756.3809236"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1lRUcJAfxY6MCe3DNLAmqRnsf2iZ-rsqs/view"
+      },
+      {
+        "label": "video",
+        "url": "https://www.youtube.com/watch?v=NYU9gz0FvAo"
+      }
+    ],
+    "highlight_venue": true,
+    "note": "",
+    "detail": ""
+  },
+  {
+    "slug": "psimo",
+    "name": "PsiMo",
+    "description": "Remote patient state monitoring in psychiatric seclusion rooms using mmWave FMCW radar. The system monitors patient motion to help alert medical staff to abnormal conditions such as agitation.",
+    "image": "/images/publications/psimo.png",
+    "venue": "ACM SenSys ’24",
+    "venue_url": "https://sensys.acm.org/2024/",
+    "awards": [
+      "Best Poster Award"
+    ],
+    "links": [
+      {
+        "label": "poster abstract",
+        "url": "https://dl.acm.org/doi/10.1145/3666025.3699418"
+      },
+      {
+        "label": "poster",
+        "url": "https://drive.google.com/file/d/1TzTnrxHDC_8ys6cw393LKpQzqFdNceaq/view?usp=sharing"
+      },
+      {
+        "label": "1min-madness",
+        "url": "https://drive.google.com/file/d/16KzlW7ju8Mx4eetqTRQk_rCfV6xrpQNR/view?usp=sharing"
+      },
+      {
+        "label": "news",
+        "url": "https://cs.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=11269&menu=83"
+      }
+    ],
+    "highlight_venue": true,
+    "note": "",
+    "detail": "",
+    "venue_note": "poster abstract"
+  },
+  {
+    "slug": "powdew",
+    "name": "PowDew",
+    "description": "Detecting counterfeit powdered food products, including infant formulas, using a commodity smartphone. PowDew captures how a water droplet spreads and penetrates the powder to distinguish authentic products from counterfeits.",
+    "image": "/images/publications/powdew.png",
+    "venue": "ACM MobiSys’24",
+    "venue_url": "https://www.sigmobile.org/mobisys/2024/",
+    "awards": [
+      "Best Paper Award",
+      "GetMobile Research Highlight"
+    ],
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3643832.3661877"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1NO5tmbwEX3GliSWQcCYWLwNuodsS2zev/view?usp=drive_link"
+      }
+    ],
+    "highlight_venue": true,
+    "note": "",
+    "detail": "/md/powdew/"
+  },
+  {
+    "slug": "rampscope",
+    "name": "RampScope",
+    "description": "Ramp-level localization of shared mobility devices using the physical characteristics of sidewalk ramps. A gyroscope captures the distinctive motion of traversing a ramp to improve on GPS-based localization.",
+    "image": "/images/publications/rampscope.png",
+    "venue": "ACM HotMobile’23",
+    "venue_url": "https://www.hotmobile.org/2023/",
+    "awards": [
+      "Best Poster Award"
+    ],
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3572864.3580334"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1fXiNkK_Yi901q7NssSk9TylWzYm1Nvxb/view"
+      }
+    ],
+    "highlight_venue": false,
+    "note": "Award for the accompanying poster.",
+    "detail": "/md/rampscope/"
+  },
+  {
+    "slug": "index-hijacking",
+    "name": "Index Hijacking",
+    "description": "Investigating index hijacking attacks on collaborative unpooling autoencoder systems. Related work includes the MobiSys ’23 demonstration of man-in-the-middle attacks exploiting unpooling indices.",
+    "venue": "Internet of Things ’25 · ACM MobiSys ’23 Demo",
+    "venue_url": "https://www.sciencedirect.com/journal/internet-of-things",
+    "image": "",
+    "awards": [],
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2542660524004037"
+      }
+    ],
+    "highlight_venue": false,
+    "note": "",
+    "detail": ""
+  }
+]

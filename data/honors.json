@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2026",
+    "items": [
+      {
+        "title": "KAIST Breakthroughs",
+        "organization": "Research Webzine of the KAIST College of Engineering",
+        "type": "Highlight",
+        "badge": "Highlight",
+        "date": "2026",
+        "url": "https://breakthroughs.kaist.ac.kr/sub02/view/id/11808",
+        "org_url": "https://breakthroughs.kaist.ac.kr/"
+      },
+      {
+        "title": "Research Highlights",
+        "organization": "KAIST School of Computing",
+        "type": "Highlight",
+        "badge": "Highlight",
+        "date": "2026",
+        "url": "https://cs.kaist.ac.kr/board/view?bbs_id=research&bbs_sn=11800&page=1&skey=subject&svalue=&menu=258",
+        "org_url": "https://cs.kaist.ac.kr/"
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "items": [
+      {
+        "title": "Best Paper Award",
+        "organization": "ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '24)",
+        "type": "Award",
+        "badge": "Award",
+        "date": "Jun 2024",
+        "certificate_img": "/images/awards/mobisys2024_best_paper.jpg",
+        "url": "",
+        "org_url": "https://www.sigmobile.org/mobisys/2024/"
+      },
+      {
+        "title": "Best Poster Award",
+        "organization": "ACM Conference on Embedded Networked Sensor Systems (SenSys '24)",
+        "type": "Award",
+        "badge": "Award",
+        "date": "Nov 2024",
+        "certificate_img": "/images/awards/sensys2024_best_poster.jpg",
+        "url": "",
+        "org_url": "https://sensys.acm.org/2024/"
+      },
+      {
+        "title": "ACM GetMobile Highlights",
+        "organization": "ACM SIGMOBILE",
+        "type": "Highlight",
+        "badge": "Highlight",
+        "date": "2024",
+        "url": "https://dl.acm.org/toc/sigmobile-getmobile/2025/28/4",
+        "org_url": "https://www.sigmobile.org/grav/"
+      },
+      {
+        "title": "Research Highlights",
+        "organization": "KAIST College of Engineering",
+        "type": "Highlight",
+        "badge": "Highlight",
+        "date": "2024",
+        "url": "https://engineering.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=17600&page=1&skey=subject&svalue=&menu=9",
+        "org_url": "https://engineering.kaist.ac.kr/"
+      },
+      {
+        "title": "Student Travel Grant",
+        "organization": "ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '24)",
+        "type": "Grant",
+        "badge": "Grant",
+        "date": "Jun 2024",
+        "url": "",
+        "org_url": "https://www.sigmobile.org/mobisys/2024/"
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "items": [
+      {
+        "title": "Best Poster Award",
+        "organization": "ACM International Workshop on Mobile Computing Systems and Applications (HotMobile '23)",
+        "type": "Award",
+        "badge": "Award",
+        "date": "Feb 2023",
+        "certificate_img": "/images/awards/hotmobile2023_best_poster.jpg",
+        "url": "",
+        "org_url": "https://hotmobile.org/2023/"
+      },
+      {
+        "title": "Excellence Award",
+        "organization": "System Design and Practice (1) (ASRC, Yonsei)",
+        "type": "Award",
+        "badge": "Award",
+        "date": "Dec 2023",
+        "url": "",
+        "org_url": ""
+      },
+      {
+        "title": "Student Travel Grant",
+        "organization": "ACM International Workshop on Mobile Computing Systems and Applications (HotMobile '23)",
+        "type": "Grant",
+        "badge": "Grant",
+        "date": "Feb 2023",
+        "url": "",
+        "org_url": "https://hotmobile.org/2023/"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "items": [
+      {
+        "title": "Dean’s List",
+        "organization": "Konkuk University",
+        "type": "Honor",
+        "badge": "Honor",
+        "date": "Fall 2021",
+        "url": "",
+        "org_url": ""
+      },
+      {
+        "title": "Bronze Award",
+        "organization": "Konkuk University Software Contest",
+        "type": "Award",
+        "badge": "Award",
+        "date": "2021",
+        "url": "",
+        "org_url": ""
+      },
+      {
+        "title": "Bronze Award",
+        "organization": "Konkuk Creative Design Competition",
+        "type": "Award",
+        "badge": "Award",
+        "date": "2021",
+        "url": "",
+        "org_url": ""
+      }
+    ]
+  }
+]

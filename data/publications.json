@@ -1,0 +1,325 @@
+[
+  {
+    "year": "2027",
+    "tag": "IEEE S&P '27",
+    "venue_url": "https://sp2027.ieee-security.org/",
+    "title": "ScatterPIN: PIN Inference Attack on Touch Keypad Door Locks via RF Backscatter Side Channel",
+    "kind": "Conference",
+    "authors": "Changgeon Kang, Dongjin Seo, Jonghyuk Yun, Seungbeom Park, Junyong Kim, and Jun Han",
+    "venue": "IEEE Symposium on Security and Privacy (To appear)",
+    "links": [],
+    "media": [],
+    "award": "",
+    "image": "/images/publications/scatterpin.png",
+    "slug": "scatterpin",
+    "highlight_venue": true,
+    "recognitions": [],
+    "description": "Inferring PINs entered on touch keypad door locks through an RF backscatter side channel."
+  },
+  {
+    "year": "2026",
+    "tag": "ACM UIST'26",
+    "venue_url": "https://uist.acm.org/2026/",
+    "title": "Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smartphones",
+    "kind": "Conference",
+    "authors": "Kyoosik Lee, Jiha Kim, Jonghyuk Yun, Suwon Yoon, Jun Han*, Inseok Hwang*",
+    "venue": "ACM Symposium on User Interface Software and Technology (To appear)",
+    "author_note": "* Co-corresponding authors",
+    "links": [
+      {
+        "label": "video",
+        "url": "https://www.youtube.com/watch?v=hOeVoINVmEY"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "image": "/images/publications/fold2unfold.png",
+    "slug": "fold2unfold",
+    "highlight_venue": true,
+    "recognitions": [],
+    "description": "Protecting screen privacy on foldable smartphones using inter-screen reflection. The screen content is decomposed and projected so the user can read it while nearby observers see obfuscated content."
+  },
+  {
+    "year": "2026",
+    "tag": "ACM MobiSys'26",
+    "venue_url": "https://www.sigmobile.org/mobisys/2026/",
+    "title": "SweepLED: Detecting Concealed Cameras via LED Illumination Sweeps",
+    "kind": "Conference",
+    "authors": "Jonghyuk Yun, Jaeyoung Moon, Yunseo Park, Sean Rui Xiang Tan, Byunghyun Kim, Rajesh Krishna Balan, and Jun Han",
+    "venue": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3745756.3809236"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1lRUcJAfxY6MCe3DNLAmqRnsf2iZ-rsqs/view"
+      },
+      {
+        "label": "video",
+        "url": "https://www.youtube.com/watch?v=NYU9gz0FvAo"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "image": "/images/publications/sweepled.png",
+    "slug": "sweepled",
+    "highlight_venue": true,
+    "recognitions": [],
+    "description": "Detecting concealed cameras using LED illumination sweeps. The system uses the response to changing illumination to identify cameras hidden in everyday objects."
+  },
+  {
+    "year": "2026",
+    "tag": "Poster Abstract: ACM MobiSys'26",
+    "venue_url": "https://www.sigmobile.org/mobisys/2026/",
+    "title": "Poster: Detecting Hidden Cameras using LED Illumination Sweeps",
+    "kind": "Poster",
+    "authors": "Jonghyuk Yun, Jaeyoung Moon, Yunseo Park, Sean Rui Xiang Tan, Byunghyun Kim, Rajesh Krishna Balan, and Jun Han",
+    "venue": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "links": [
+      {
+        "label": "poster abstract",
+        "url": "https://dl.acm.org/doi/10.1145/3812835.3814866"
+      },
+      {
+        "label": "poster",
+        "url": "https://drive.google.com/file/d/1IeFjjy-JVPAd2aiMh8VbKGarUQgHYJRP/view"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Poster presenting preliminary findings and system design of LED illumination sweeps for concealed camera detection."
+  },
+  {
+    "year": "2026",
+    "tag": "ACM UIST '26 Demo",
+    "venue_url": "https://uist.acm.org/2026/",
+    "title": "Demonstrating Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smartphones",
+    "kind": "Demo",
+    "authors": "Kyoosik Lee, Jiha Kim, Jonghyuk Yun, Suwon Yoon, Jun Han*, Inseok Hwang*",
+    "venue": "ACM Symposium on User Interface Software and Technology (To appear)",
+    "author_note": "* Co-corresponding authors",
+    "links": [
+      {
+        "label": "video",
+        "url": "https://www.youtube.com/watch?v=hOeVoINVmEY"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Demonstration prototype showcasing inter-screen reflection based screen privacy on commercially available foldable smartphones."
+  },
+  {
+    "year": "2025",
+    "tag": "Internet of Things",
+    "venue_url": "https://www.sciencedirect.com/journal/internet-of-things",
+    "title": "Mind Your Indices! Index Hijacking Attacks on Collaborative Unpooling Autoencoder Systems",
+    "kind": "Journal",
+    "authors": "Kichang Lee, Jonghyuk Yun, Jaeho Jin, Jun Han, and Jeonggil Ko",
+    "venue": "Internet of Things, 2025. (IF=6.0, JCR IF TOP 11.4%)",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2542660524004037"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Investigating index hijacking attacks on collaborative unpooling autoencoder systems, where adversaries exploit shared index maps during inference.",
+    "image": "/images/publications/mind_your_indices.png"
+  },
+  {
+    "year": "2024",
+    "tag": "ACM MobiSys’24",
+    "venue_url": "https://www.sigmobile.org/mobisys/2024/",
+    "title": "PowDew: Detecting Counterfeit Powdered Food Products using a Commodity Smartphone",
+    "kind": "Conference",
+    "authors": "Jonghyuk Yun, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han",
+    "venue": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3643832.3661877"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1NO5tmbwEX3GliSWQcCYWLwNuodsS2zev/view?usp=drive_link"
+      }
+    ],
+    "media": [
+      {
+        "label": "YTN (video)",
+        "url": "https://www.youtube.com/watch?v=YSUQKdiXhOE&ab_channel=YTN"
+      },
+      {
+        "label": "Yonhap",
+        "url": "https://www.yna.co.kr/view/AKR20240802037500063"
+      },
+      {
+        "label": "Chosun",
+        "url": "https://www.chosun.com/economy/science/2024/08/02/Q5YWOUU4M5HLORQOOU4VEAWPIE/"
+      },
+      {
+        "label": "DongA",
+        "url": "https://m.dongascience.com/news.php?idx=66807"
+      },
+      {
+        "label": "SE Daily",
+        "url": "https://www.sedaily.com/NewsView/2DCUYKINTT"
+      },
+      {
+        "label": "KAIST News",
+        "url": "https://researchnews.kaist.ac.kr/researchnews/html/news/?mode=V&mng_no=38770&skey=prof&sval=%ED%95%9C%EC%A4%80&list_s_date=&list_e_date=&GotoPage=1"
+      }
+    ],
+    "award": "Best Paper Award · GetMobile Research Highlight",
+    "image": "/images/publications/powdew.png",
+    "slug": "powdew",
+    "highlight_venue": true,
+    "recognitions": [
+      "Best Paper Award",
+      "GetMobile Research Highlight"
+    ],
+    "description": "Detecting counterfeit powdered food products, including infant formulas, using a commodity smartphone. PowDew captures how a water droplet spreads and penetrates the powder to distinguish authentic products from counterfeits.",
+    "award_image": "/images/awards/mobisys2024_best_paper.jpg"
+  },
+  {
+    "year": "2024",
+    "tag": "ACM GetMobile'24",
+    "venue_url": "https://www.sigmobile.org/pubs/getmobile/",
+    "title": "Smartphone to Rescue: Detecting Counterfeit Powdered Food Products",
+    "kind": "Journal",
+    "authors": "Jonghyuk Yun, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han",
+    "venue": "GetMobile: Mobile Computing and Communications (Invited Article)",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3714983.3714995"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Invited research feature article in ACM GetMobile on mobile sensing techniques for authenticating powdered food products."
+  },
+  {
+    "year": "2024",
+    "tag": "POSTER ABSTRACT: ACM SenSys’24",
+    "venue_url": "https://sensys.acm.org/2024/",
+    "title": "Towards Privacy Preserving Patient State Classification in Psychiatric Seclusion Room using mmWave Radar",
+    "kind": "Poster",
+    "authors": "Dongjin Seo, Jonghyuk Yun, Seongjin Wang, Jaewoo Son and Jun Han",
+    "venue": "ACM Conference on Embedded Networked Sensor Systems",
+    "links": [
+      {
+        "label": "poster abstract",
+        "url": "https://dl.acm.org/doi/10.1145/3666025.3699418"
+      },
+      {
+        "label": "poster",
+        "url": "https://drive.google.com/file/d/1TzTnrxHDC_8ys6cw393LKpQzqFdNceaq/view?usp=sharing"
+      },
+      {
+        "label": "1min-madness",
+        "url": "https://drive.google.com/file/d/16KzlW7ju8Mx4eetqTRQk_rCfV6xrpQNR/view?usp=sharing"
+      },
+      {
+        "label": "news",
+        "url": "https://cs.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=11269&menu=83"
+      }
+    ],
+    "media": [],
+    "award": "Best Poster Award",
+    "highlight_venue": false,
+    "recognitions": [
+      "Best Poster Award"
+    ],
+    "project_name": "PsiMo",
+    "slug": "psimo",
+    "image": "/images/publications/psimo.png",
+    "description": "Remote patient state monitoring in psychiatric seclusion rooms using mmWave FMCW radar. The system monitors patient motion to help alert medical staff to abnormal conditions such as agitation.",
+    "award_image": "/images/awards/sensys2024_best_poster.jpg"
+  },
+  {
+    "year": "2024",
+    "tag": "POSTER ABSTRACT: ACM MobiSys’24",
+    "venue_url": "https://www.sigmobile.org/mobisys/2024/",
+    "title": "Towards Counterfeit Powdered Food Products Detection using a Commodity Smartphone",
+    "kind": "Poster",
+    "authors": "Jonghyuk Yun, Kyoosik Lee, Kichang Lee, Bangjie Sun, Jaeho Jeon, Jeonggil Ko, Inseok Hwang, and Jun Han",
+    "venue": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "links": [
+      {
+        "label": "poster abstract",
+        "url": "https://dl.acm.org/doi/10.1145/3643832.3661398"
+      },
+      {
+        "label": "poster",
+        "url": "https://drive.google.com/file/d/1cLGrmBnHlZuLBoTdw-8_T-Ua4KT8szAu/view?usp=sharing"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Initial poster exploring the feasibility of using smartphone cameras and fluid dynamics to inspect counterfeit food powders."
+  },
+  {
+    "year": "2023",
+    "tag": "ACM HotMobile’23",
+    "venue_url": "https://www.hotmobile.org/2023/",
+    "title": "RampScope: Ramp-level Localization of Shared Mobility Devices using Sidewalk Ramps",
+    "kind": "Workshop",
+    "authors": "Jonghyuk Yun*, Gyuyeon Kim*, Soundarya Ramesh, and Jun Han",
+    "venue": "ACM International Workshop on Mobile Computing Systems and Applications",
+    "author_note": "* Co-primary authors",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3572864.3580334"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1fXiNkK_Yi901q7NssSk9TylWzYm1Nvxb/view"
+      }
+    ],
+    "media": [],
+    "award": "Best Poster Award · Accompanying poster",
+    "image": "/images/publications/rampscope.png",
+    "slug": "rampscope",
+    "highlight_venue": true,
+    "award_image": "/images/awards/hotmobile2023_best_poster.jpg",
+    "recognitions": [
+      "Best Poster Award (accompanying poster)"
+    ],
+    "description": "Ramp-level localization of shared mobility devices using the physical characteristics of sidewalk ramps. A gyroscope captures the distinctive motion of traversing a ramp to improve on GPS-based localization."
+  },
+  {
+    "year": "2023",
+    "tag": "DEMO ABSTRACT: ACM MobiSys’23",
+    "venue_url": "https://www.sigmobile.org/mobisys/2023/",
+    "title": "Exploiting Indices for Man-in-the-Middle Attacks on Collaborative Unpooling Autoencoders",
+    "kind": "Demo",
+    "authors": "Kichang Lee, Jonghyuk Yun, Jun Han, and JeongGil Ko",
+    "venue": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3581791.3597291"
+      }
+    ],
+    "media": [],
+    "award": "",
+    "highlight_venue": false,
+    "recognitions": [],
+    "description": "Investigating index hijacking attacks on collaborative unpooling autoencoder systems, where adversaries exploit shared index maps during inference."
+  }
+]

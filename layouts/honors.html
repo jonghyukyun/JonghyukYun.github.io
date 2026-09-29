@@ -1,0 +1,59 @@
+{{ define "main" }}
+<section class="page-hero honors-hero">
+  <div class="eyebrow"><span></span> RECOGNITIONS / AWARDS</div>
+  <h1>Honors &amp; Awards</h1>
+  <div class="hero-bottom">
+    <p>Academic awards, research highlights, and competitive honors.</p>
+  </div>
+</section>
+
+<section class="honors-section" aria-label="Honors and Awards">
+  {{ range hugo.Data.honors }}
+  {{ $year := .year }}
+  <section class="year-group" aria-labelledby="year-{{ $year }}">
+    <h2 id="year-{{ $year }}">{{ $year }}</h2>
+    <div class="honors-list">
+      {{ range .items }}
+      {{ $itemTitle := .title }}
+      {{ $itemType := .type }}
+      {{ $itemPaperUrl := .paper_url }}
+      <article class="honor-card{{ if .certificate_img }} has-certificate{{ end }}{{ if eq .type "Award" }} is-award{{ end }}">
+        <div class="honor-layout">
+          <div class="honor-content">
+            <div class="honor-meta">
+              {{ with .badge }}
+              <span class="honor-badge honor-badge-{{ $itemType | lower }}">{{ . }}</span>
+              {{ end }}
+            </div>
+            <h3 class="honor-title">
+              {{ if .url }}
+              <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }} <span class="ext-icon" aria-hidden="true">↗</span></a>
+              {{ else }}
+              {{ .title }}
+              {{ end }}
+            </h3>
+            <p class="honor-org">
+              {{ if .org_url }}
+              <a href="{{ .org_url }}" target="_blank" rel="noopener">{{ .organization }} <span class="ext-icon" aria-hidden="true">↗</span></a>
+              {{ else }}
+              {{ .organization }}
+              {{ end }}
+            </p>
+          </div>
+          {{ with .certificate_img }}
+          <div class="honor-certificate-wrap">
+            <a class="figure-lightbox-trigger certificate-trigger" href="{{ . | relURL }}" data-lightbox="{{ . | relURL }}" aria-label="View award certificate for {{ $itemTitle }}">
+              <img class="honor-certificate-img" src="{{ . | relURL }}" alt="Award certificate for {{ $itemTitle }}" loading="lazy">
+              <span class="figure-zoom-badge" aria-hidden="true">🔍 Zoom</span>
+            </a>
+          </div>
+          {{ end }}
+          <span class="honor-date">{{ .date }}</span>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</section>
+{{ end }}

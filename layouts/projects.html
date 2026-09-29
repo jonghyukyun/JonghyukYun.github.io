@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="page-hero"><h1>Research projects</h1><div class="hero-bottom"><p>Systems for mobile sensing, security, and safety.</p></div></section>
+<section class="system-list" aria-label="Research projects">{{ range hugo.Data.projects }}
+<article class="system-row{{ if not .image }} system-text-only{{ end }}" id="{{ .slug }}">
+{{ with .image }}<a class="system-figure" href="{{ . | relURL }}" target="_blank" rel="noopener" aria-label="Open full-size system figure"><img src="{{ . | relURL }}" alt="System introductory figure" loading="lazy"></a>{{ end }}
+<div class="system-copy"><div class="system-venue">{{ if .venue_url }}<a class="gallery-venue{{ if .highlight_venue }} venue-highlight{{ end }}" href="{{ .venue_url }}" target="_blank" rel="noopener">{{ .venue }}</a>{{ else }}<span class="gallery-venue{{ if .highlight_venue }} venue-highlight{{ end }}">{{ .venue }}</span>{{ end }}{{ with .venue_note }}<span class="venue-note">{{ . }}</span>{{ end }}</div><div class="system-heading"><h2>{{ .name }}</h2>{{ range .awards }}<span class="system-award"><span aria-hidden="true">🏆</span> <strong>{{ . | upper }}</strong></span>{{ end }}{{ with .note }}<span class="award-explanation">(*Poster accompanied full paper)</span>{{ end }}</div><p>{{ .description }}</p><div class="system-links">{{ with .detail }}<a class="text-link" href="{{ . | relURL }}">Explore project ↗</a>{{ end }}{{ range .links }}<a class="text-link" href="{{ .url }}">{{ .label | humanize }} ↗</a>{{ end }}{{ if and (not .links) (not .detail) }}<span class="system-note">To appear</span>{{ end }}</div></div>
+</article>{{ end }}</section>
+{{ end }}

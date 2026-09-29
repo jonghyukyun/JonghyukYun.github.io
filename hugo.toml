@@ -1,0 +1,6 @@
+baseURL = 'https://jonghyukyun.github.io/'
+locale = 'en-us'
+title = 'Jonghyuk Yun'
+disableKinds = ['taxonomy', 'term', 'RSS']
+[markup.goldmark.renderer]
+unsafe = true
