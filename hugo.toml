@@ -1,4 +1,4 @@
-baseURL = 'https://jonghyukyun.github.io/'
+baseURL = 'https://jonghyukyun.com/'
 locale = 'en-us'
 title = 'Jonghyuk Yun'
 disableKinds = ['taxonomy', 'term', 'RSS']
