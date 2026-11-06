@@ -27,6 +27,10 @@
     "author_note": "* Co-corresponding authors",
     "links": [
       {
+        "label": "paper",
+        "url": "https://dl.acm.org/doi/10.1145/3830398.3830569"
+      },
+      {
         "label": "video",
         "url": "https://www.youtube.com/watch?v=hOeVoINVmEY"
       }
