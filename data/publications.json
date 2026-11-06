@@ -36,8 +36,11 @@
     "image": "/images/publications/fold2unfold.png",
     "slug": "fold2unfold",
     "highlight_venue": true,
-    "recognitions": [],
-    "description": "Protecting screen privacy on foldable smartphones using inter-screen reflection. The screen content is decomposed and projected so the user can read it while nearby observers see obfuscated content."
+    "recognitions": [
+      "Best Demo Honorable Mention (accompanying demo)"
+    ],
+    "description": "Protecting screen privacy on foldable smartphones using inter-screen reflection. The screen content is decomposed and projected so the user can read it while nearby observers see obfuscated content.",
+    "award_image": "/images/awards/uist2026_best_demo_honorable_mention.jpg"
   },
   {
     "year": "2026",
