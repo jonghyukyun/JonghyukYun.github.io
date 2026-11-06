@@ -109,10 +109,13 @@
       }
     ],
     "media": [],
-    "award": "",
+    "award": "Best Demo Honorable Mention",
     "highlight_venue": false,
-    "recognitions": [],
-    "description": "Demonstration prototype showcasing inter-screen reflection based screen privacy on commercially available foldable smartphones."
+    "recognitions": [
+      "Best Demo Honorable Mention"
+    ],
+    "description": "Demonstration prototype showcasing inter-screen reflection based screen privacy on commercially available foldable smartphones.",
+    "award_image": "/images/awards/uist2026_best_demo_honorable_mention.jpg"
   },
   {
     "year": "2025",

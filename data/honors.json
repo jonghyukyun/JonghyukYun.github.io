@@ -3,6 +3,16 @@
     "year": "2026",
     "items": [
       {
+        "title": "Best Demo Honorable Mention",
+        "organization": "ACM Symposium on User Interface Software and Technology (UIST '26)",
+        "type": "Award",
+        "badge": "Award",
+        "date": "Nov 2026",
+        "certificate_img": "/images/awards/uist2026_best_demo_honorable_mention.jpg",
+        "url": "",
+        "org_url": "https://uist.acm.org/2026/"
+      },
+      {
         "title": "KAIST Breakthroughs",
         "organization": "Research Webzine of the KAIST College of Engineering",
         "type": "Highlight",
